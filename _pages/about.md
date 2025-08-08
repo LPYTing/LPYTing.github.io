@@ -65,8 +65,3 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
   - Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
 
 
-:email: Contact
-=======
-**Email**: lpyting@netdb.csie.ncku.edu.tw
-
-
