@@ -14,7 +14,7 @@ author_profile: true
 Recent Preprints
 -----
 1. Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes [[pdf](https://arxiv.org/pdf/2506.05386?)]<br />
-**Lo Pang-Yun Ting***, Chengshuai Zhao*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
+**Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
 2. CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration [[pdf](https://arxiv.org/pdf/2501.16365)]<br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
