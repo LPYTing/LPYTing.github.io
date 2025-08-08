@@ -12,6 +12,12 @@ My research focuses on **knowledge graph embedding and reasoning**, **reinforcem
 
 I have collaborated with experts across healthcare, smart energy, integrated circuits, and education, working with organizations such as [National Cheng Kung University Hospital (NCKUH)](https://web.hosp.ncku.edu.tw/nckm/english/HomeStyle.aspx?Type=11&ContentPage=0), [NXP Semiconductor](https://www.nxp.com/), [Tokyo Electric Power Company (TEPCO)](https://www.tepco.co.jp/en/hd/index-e.html), [Taiwan Power Company](https://www.taipower.com.tw/2763/), [Azbil Corporation](https://www.azbil.com/), [NextDrive KK](https://www.nextdrive.io/en/), and [Junyi Academy](https://official.junyiacademy.org/).
 
+-----
+
+:loudspeaker: :loudspeaker: [NEWS] Check out our latest paper **Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes* [[pdf](https://arxiv.org/pdf/2506.05386?)], which aims to control **reasoning granularity of LLMs** for clinical note generation using reinforced RAG.
+
+-----
+
 
 :school: Experience
 ======
@@ -57,6 +63,7 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
   - **Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu
 - **ICDM 2018**, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]
   - Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
+
 
 :email: Contact
 =======
