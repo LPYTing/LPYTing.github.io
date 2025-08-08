@@ -18,7 +18,7 @@ Preprints
 
 Selected Publications
 -----
-1. **[IJCAI 2025]**, **Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System** 
+1. **[IJCAI 2025]**, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System
 <ins>Lo Pang-Yun Ting<ins>, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang [[pdf](https://arxiv.org/pdf/2505.01305?)]
 2. **IJCAI 2025**, DeCo: Defect-Aware Modeling with Contrasting Matching for Optimizing Task Assignment in Online IC Testing [[pdf](https://arxiv.org/pdf/2505.00278)]
   - **Lo Pang-Yun Ting**, Yu-Hao Chiang, Yi-Tung Tsai, Hsu-Chao Lai, Kun-Ta Chuang
