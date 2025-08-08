@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+{% if author.googlescholar %} 
 
 All my articles can be found at [my Google Scholar profile](https://scholar.google.com/citations?user=lnT_GWEAAAAJ&hl=en).
+
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
 
 
 Recent Preprints
