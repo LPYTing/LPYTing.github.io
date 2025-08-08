@@ -9,6 +9,7 @@ redirect_from:
 
 I am a postdoctoral researcher at [NetDB lab](https://ncku-ccs.github.io/netdb-web/), National Cheng Kung University (NCKU), where I earned my Ph.D. in Computer Science in July 2025 under the supervision of [Dr. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang).
 My research focuses on **knowledge graph embedding and reasoning**, **reinforcement learning**, **reasoning in large language models**, and **time series data analysis**.
+
 I have collaborated with experts across healthcare, smart energy, integrated circuits, and education, working with organizations such as [National Cheng Kung University Hospital (NCKUH)](https://web.hosp.ncku.edu.tw/nckm/english/HomeStyle.aspx?Type=11&ContentPage=0), [NXP Semiconductor](https://www.nxp.com/), [Tokyo Electric Power Company (TEPCO)](https://www.tepco.co.jp/en/hd/index-e.html), [Taiwan Power Company](https://www.taipower.com.tw/2763/), [Azbil Corporation](https://www.azbil.com/), [NextDrive KK](https://www.nextdrive.io/en/), and [Junyi Academy](https://official.junyiacademy.org/).
 
 
