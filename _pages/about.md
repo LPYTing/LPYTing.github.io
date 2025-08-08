@@ -14,7 +14,7 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
 
 -----
 
-:loudspeaker: :loudspeaker: [NEWS] Check out our latest paper **Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes* [[pdf](https://arxiv.org/pdf/2506.05386?)], which aims to control **reasoning granularity of LLMs** for clinical note generation using reinforced RAG.
+:loudspeaker: :loudspeaker: [NEWS] Check out our latest paper **Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes** [[pdf](https://arxiv.org/pdf/2506.05386?)], which aims to control **reasoning granularity of LLMs** for clinical note generation using reinforced RAG.
 
 -----
 
