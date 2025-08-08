@@ -15,13 +15,16 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
 
 Experience
 ======
-- Visiting Scholar, Arizona State University, Aug. 2023 - Jan. 2025
+- Arizona State University, Aug. 2023 - Jan. 2025
+  - Visiting Scholar
   - Worked with [Dr. Huan Liu](https://search.asu.edu/profile/255975)'s [DMML](https://dmml.asu.edu/) lab and research on clinical care, including
     - Early detection of illness deterioration.
     - Reasoning granularity control in LLMs for clinical note generation.
-- Lecturer, Information Technology Curriculum and Instruction Center, Sep. 2020 - Feb. 2022
+- Information Technology Curriculum and Instruction Center, Sep. 2020 - Feb. 2022
+  - Lecturer
   - Gave several lessons on big data analysis, database, and data mining for high school teachers.
-- Exchange Student, Tohoku University, Oct. 2019 - Jul. 2020
+- Tohoku University, Oct. 2019 - Jul. 2020
+  - Exchange Student
   - Worked in [Dr. Nei Kato](http://www.it.is.tohoku.ac.jp/~kato/en-index.html)'s laboratory and research on the telecommunications network.
 
 
@@ -40,18 +43,19 @@ Honors & Awards
 
 Selected Publications
 ======
-- IJCAI 2025, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System [[pdf](https://arxiv.org/pdf/2505.01305?)]
-  **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang
-- IJCAI 2025, DeCo: Defect-Aware Modeling with Contrasting Matching for Optimizing Task Assignment in Online IC Testing [[pdf](https://arxiv.org/pdf/2505.00278)]
-  **Lo Pang-Yun Ting**, Yu-Hao Chiang, Yi-Tung Tsai, Hsu-Chao Lai, Kun-Ta Chuang
-- ACM TIST 2024, Online Spatial-Temporal EV Charging Scheduling with Incentive Promotion [[pdf](https://dl.acm.org/doi/full/10.1145/3678180)]
-  **Lo Pang-Yun Ting**, Huan-Yang Wang, Jhe-Yun Jhang, Kun-Ta Chuang
-- ACM TIST 2024, An Explore–Exploit Workload-Bounded Strategy for Rare Event Detection in Massive Energy Sensor Time Series [[pdf](https://dl.acm.org/doi/full/10.1145/3657641)]
-  **Lo Pang-Yun Ting**, Rong Chao, Chai-Shi Chang, Kun-Ta Chuang
-- ICDM 2020, Learning personal conscientiousness from footprints in E-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338404)]
-- CogMI 2020, Learning latent perception graphs for personalized unknowns recommendation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319281)]
-  **Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu
-- ICDM 2018, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]
-  Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
+- **IJCAI 2025**, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System [[pdf](https://arxiv.org/pdf/2505.01305?)]
+  - **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang
+- **IJCAI 2025**, DeCo: Defect-Aware Modeling with Contrasting Matching for Optimizing Task Assignment in Online IC Testing [[pdf](https://arxiv.org/pdf/2505.00278)]
+  - **Lo Pang-Yun Ting**, Yu-Hao Chiang, Yi-Tung Tsai, Hsu-Chao Lai, Kun-Ta Chuang
+- **ACM TIST 2024**, Online Spatial-Temporal EV Charging Scheduling with Incentive Promotion [[pdf](https://dl.acm.org/doi/full/10.1145/3678180)]
+  - **Lo Pang-Yun Ting**, Huan-Yang Wang, Jhe-Yun Jhang, Kun-Ta Chuang
+- **ACM TIST 2024**, An Explore–Exploit Workload-Bounded Strategy for Rare Event Detection in Massive Energy Sensor Time Series [[pdf](https://dl.acm.org/doi/full/10.1145/3657641)]
+  - **Lo Pang-Yun Ting**, Rong Chao, Chai-Shi Chang, Kun-Ta Chuang
+- **ICDM 2020**, Learning personal conscientiousness from footprints in E-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338404)]
+  - **Lo Pang-Yun Ting**, Shan-Yun Teng, Kun-Ta Chuang, Ee-Peng Lim
+- **CogMI 2020**, Learning latent perception graphs for personalized unknowns recommendation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319281)]
+  - **Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu
+- **ICDM 2018**, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]
+  - Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
 
 
