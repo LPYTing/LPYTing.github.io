@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Recent Preprints
+:loudspeaker: Recent Preprints
 -----
 1. Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes [[pdf](https://arxiv.org/pdf/2506.05386?)]<br />
 **Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
@@ -19,7 +19,7 @@ Recent Preprints
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
-Selected Publications
+:page_facing_up: Selected Publications
 -----
 1. **IJCAI 2025**, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System [[pdf](https://arxiv.org/pdf/2505.01305?)]<br />
 **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang 
