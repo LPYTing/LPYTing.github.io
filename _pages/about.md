@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Lo Pang-Yun Ting's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a postdoc at National Cheng Kung University (NCKU) at [NetDB lab](https://ncku-ccs.github.io/netdb-web/), and just obtained my Computer Science PhD degree in July 2025, under the supervision of [Dr. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang).
+My research interests include knowledge graph embedding/reasoning, reinforcement learning, reasoning in large language models, and time series data analysis.
+My past research was related to different application domains, including healthcare, smart energy, integrated circuits, and education. The collaborated companies/instituions including [National Cheng Kung University Hospital] (NCKUH)(https://web.hosp.ncku.edu.tw/nckm/english/HomeStyle.aspx?Type=11&ContentPage=0), [Tokyo Electric Power Company (TEPCO)](https://www.tepco.co.jp/en/hd/index-e.html), 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
