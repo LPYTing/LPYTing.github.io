@@ -23,7 +23,7 @@ repository               : "LPYTing/LPYTing.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Lo Pang-Yun Ting (Teila"
+  name             : "Lo Pang-Yun Ting (Teila)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "Taiwan"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/LPYTing"
+  github           : "LPYTing"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
