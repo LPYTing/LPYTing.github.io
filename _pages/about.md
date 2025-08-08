@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Lo Pang-Yun Ting's Homepage"
+title: "Lo Pang-Yun Ting (Teila)'s Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ My research focuses on **knowledge graph embedding and reasoning**, **reinforcem
 I have collaborated with experts across healthcare, smart energy, integrated circuits, and education, working with organizations such as [National Cheng Kung University Hospital (NCKUH)](https://web.hosp.ncku.edu.tw/nckm/english/HomeStyle.aspx?Type=11&ContentPage=0), [NXP Semiconductor](https://www.nxp.com/), [Tokyo Electric Power Company (TEPCO)](https://www.tepco.co.jp/en/hd/index-e.html), [Taiwan Power Company](https://www.taipower.com.tw/2763/), [Azbil Corporation](https://www.azbil.com/), [NextDrive KK](https://www.nextdrive.io/en/), and [Junyi Academy](https://official.junyiacademy.org/).
 
 
-Experience
+:classical_building: Experience
 ======
 - Arizona State University, Aug. 2023 - Jan. 2025
   - Visiting Scholar
@@ -57,5 +57,9 @@ Selected Publications
   - **Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu
 - **ICDM 2018**, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]
   - Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
+
+Contact
+=======
+**Email**: lpyting@netdb.csie.ncku.edu.tw
 
 
