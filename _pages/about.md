@@ -17,8 +17,8 @@ Experience
 ======
 - Visiting Scholar, Arizona State University, Aug. 2023 - Jan. 2025
   - Worked with [Dr. Huan Liu](https://search.asu.edu/profile/255975)'s [DMML](https://dmml.asu.edu/) lab and research on clinical care, including
-  - Early detection of illness deterioration.
-  - Reasoning granularity control in LLMs for clinical note generation.
+    - Early detection of illness deterioration.
+    - Reasoning granularity control in LLMs for clinical note generation.
 - Lecturer, Information Technology Curriculum and Instruction Center, Sep. 2020 - Feb. 2022
   - Gave several lessons on big data analysis, database, and data mining for high school teachers.
 - Exchange Student, Tohoku University, Oct. 2019 - Jul. 2020
