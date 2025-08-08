@@ -13,7 +13,7 @@ My research focuses on **knowledge graph embedding and reasoning**, **reinforcem
 I have collaborated with experts across healthcare, smart energy, integrated circuits, and education, working with organizations such as [National Cheng Kung University Hospital (NCKUH)](https://web.hosp.ncku.edu.tw/nckm/english/HomeStyle.aspx?Type=11&ContentPage=0), [NXP Semiconductor](https://www.nxp.com/), [Tokyo Electric Power Company (TEPCO)](https://www.tepco.co.jp/en/hd/index-e.html), [Taiwan Power Company](https://www.taipower.com.tw/2763/), [Azbil Corporation](https://www.azbil.com/), [NextDrive KK](https://www.nextdrive.io/en/), and [Junyi Academy](https://official.junyiacademy.org/).
 
 
-:classical_building: Experience
+:school: Experience
 ======
 - Arizona State University, Aug. 2023 - Jan. 2025
   - Visiting Scholar
@@ -28,20 +28,20 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
   - Worked in [Dr. Nei Kato](http://www.it.is.tohoku.ac.jp/~kato/en-index.html)'s laboratory and research on the telecommunications network.
 
 
-Service
+:office: Service
 ======
 - Serve as a reviewer for KDD 2025, KDD 2026, NeurIPS 2025, ACM TIST 2024
 - Serve as a subreviewer for ASONAM 2024, CIKM 2025
 
 
-Honors & Awards
+:trophy: Honors & Awards
 ======
 - Honorary member of the Phi Tau Phi Scholastic Honor Society of Taiwan, 2025
 - Graduate Student Study Abroad Program (GSSAP) fully funded scholarship, 2023
 - Honorary member of the Phi Tau Phi Scholastic Honor Society of Taiwan, 2020
 
 
-Selected Publications
+:page_facing_up: Selected Publications
 ======
 - **IJCAI 2025**, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System [[pdf](https://arxiv.org/pdf/2505.01305?)]
   - **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang
@@ -58,7 +58,7 @@ Selected Publications
 - **ICDM 2018**, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]
   - Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
 
-Contact
+:email: Contact
 =======
 **Email**: lpyting@netdb.csie.ncku.edu.tw
 
