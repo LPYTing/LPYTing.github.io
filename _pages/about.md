@@ -31,12 +31,6 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
   - Worked in [Dr. Nei Kato](http://www.it.is.tohoku.ac.jp/~kato/en-index.html)'s laboratory and research on the telecommunications network.
 
 
-:office: Service
-======
-- Serve as a program committee member for PAKDD 2026
-- Serve as a reviewer for KDD 2026, WWW 2026, KDD 2025, NeurIPS 2025, ACM TIST 2024
-- Serve as a subreviewer for ASONAM 2024, CIKM 2025
-
 
 :trophy: Honors & Awards
 ======
