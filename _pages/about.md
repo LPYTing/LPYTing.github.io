@@ -16,7 +16,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
   html { scroll-behavior: smooth; }
   .navlink {
     text-decoration: none;
-    color: #666;
+    color: gray;
     font-size: 16px;
     padding: 4px 8px;
   }
@@ -57,7 +57,7 @@ More Information:
 <h2 id="research">Research Interests</h2>
 
 
-My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More detailscan be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
+My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
 
 
 <hr style="border: 0.1px solid #000;">
