@@ -14,9 +14,28 @@ I received my PhD degree in [Computer Science and Information Engineering](https
 
 <style>
   html { scroll-behavior: smooth; }
+  .navlink {
+    text-decoration: none;
+    color: #666;
+    font-size: 16px;
+    padding: 4px 8px;
+  }
+  .navlink:visited {
+    color: #666;
+  }
+  .navlink:hover {
+    color: #000;
+  }
+  .navlink:focus, .navlink:active {
+    outline: none;
+  }
 </style>
 
-More Information: <a href="#research">Research Interests</a> | <a href="#exper">Experience</a>| <a href="#edu">Education</a> | <a href="#news">News</a>
+More Information:
+<a class="navlink" href="#research">Research Interests</a> |
+<a class="navlink" href="#exper">Experience</a> |
+<a class="navlink" href="#edu">Education</a> |
+<a class="navlink" href="#news">News</a>
 
 <span style="
   display:inline-block;
