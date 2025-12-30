@@ -17,7 +17,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
   html { scroll-behavior: smooth; }
   .navlink {
     text-decoration: none;
-    color: gray;
+    color: #A6A6A6;
     font-size: 16px;
     padding: 4px 8px;
   }
