@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "air"
 title                    : "Lo Pang-Yun Ting (Teila)"
 title_separator          : "-"
 name                     : &name "Lo Pang-Yun Ting"
