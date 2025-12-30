@@ -14,16 +14,16 @@ I received my PhD degree in [Computer Science and Information Engineering](https
 
 <span style="
   display:inline-block;
-  padding:4px 10px;
-  background:#F8EBCB;
+  padding:6px 12px;
+  background:#FFF8DC;
   border:2px dotted #000;
-  border-radius:6px;
+  border-radius:10px;
+  font-size:14px;
+  font-weight:600;
+  white-space:normal;
 ">
-
-📢 I am actively seeking motivated undergraduate / Master / Ph.D. students to join our lab. If you are interested in data mining / AI / reinforcement learning, or related topics in healthcare, time series analysis or LLM reasoning, please feel to free reach out to me via email with your CV/resume.
-
+📢 I am actively seeking motivated undergraduate / Master / Ph.D. students to join our lab. If you are interested in data mining / AI / reinforcement learning, or related topics in healthcare, time series analysis or LLM reasoning, please feel to free reach out to me via email with your CV/resume.<br>
 <span style="display:inline-block;background:gray;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**NOTICE**</span> If you are applying for a Master's degree, please apply to the <ins>Institute of Computer Science and Engineering (資訊工程所甲組)</ins> or <ins>Data Science and Engieering (數據科學與工程研究所) programs</ins>. After you recieve an offer of admission, please feel free to reach out!
-
 </span>
 
 
