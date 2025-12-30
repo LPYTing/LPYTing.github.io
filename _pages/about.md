@@ -32,7 +32,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
   }
 </style>
 
-<span style="display:inline-block;background:#ECEEEE;">More Information</span>:
+#<span style="display:inline-block;background:#ECEEEE;">More Information</span>:
 <a class="navlink" href="#research">Research Interests</a> |
 <a class="navlink" href="#exper">Experience</a> |
 <a class="navlink" href="#edu">Education</a> |
