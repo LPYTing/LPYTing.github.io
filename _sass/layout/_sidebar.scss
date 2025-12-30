@@ -83,9 +83,11 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 60px;
+  width: 80px;
   // set width only, for non-square avatars
-  height: 60px;
+  height: 80px;
+  border-radius: 0px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 
   @include breakpoint($large) {
     display: block;
@@ -98,7 +100,7 @@
     height: 150px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 0px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
     height: auto;
     // border-radius: 50%;
