@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
+I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(🌐 Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index
+" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a> (former National Chiao-Tung University), starting in Feb. 2026.
 
-I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(🌐 Website)</a> in the [Department of Computer Science](https://www.cs.nycu.edu.tw/) at [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/nycu/en/index) (former National Chiao-Tung University), starting in Feb. 2026.
-
-I received my PhD degree in [Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) from National Cheng Kung University (NCKU) in 2025, advised by [Prof. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang) in the [NetDB Lab](https://netdb.csie.ncku.edu.tw/).
+I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from National Cheng Kung University (NCKU) in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
 
 <style>
   html { scroll-behavior: smooth; }
