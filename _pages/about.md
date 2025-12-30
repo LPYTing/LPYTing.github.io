@@ -51,7 +51,6 @@ I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_
   font-weight:300;
   white-space:normal;
 ">
-
 📢 <span style="display:inline-block;color:red;font-weight:500;">[Recruiting]</span> I am actively seeking motivated undergraduate / Master / Ph.D. students to join our lab. If you are passionate in learning the skills of Data Mining / AI / Data Science / Reinforcement Learning, or interested in Healthcare, Time Series Analysis, LLM Reasoning, Social Network, Recommender Systems and Smart City, please feel free to email me about the possibility to join us.<br><br>
 <span style="display:inline-block;background:dimgray;color:white;padding:3px 3px;border-radius:5px;font-size:14px;font-weight:500;">**NOTICE**</span> If you are applying for a Master's degree, please apply to the <ins>Institute of Computer Science and Engineering (資訊工程所甲組)</ins> or <ins>Data Science and Engieering (數據科學與工程研究所) programs</ins>. After you receive an offer of admission, please feel free to reach out!
 </span>
