@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Lo Pang-Yun Ting (Teila)'s Homepage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a **Incoming Assistant Professor** in the [Department of Computer Science](https://www.cs.nycu.edu.tw/) at the [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/nycu/en/index).
-I earned my Ph.D. in [Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) in National Cheng Kung University (NCKU), advised by [Prof. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang) in the [NetDB Lab](https://netdb.csie.ncku.edu.tw/).
+I am a **Incoming Assistant Professor** in the [Department of Computer Science](https://www.cs.nycu.edu.tw/) at [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/nycu/en/index).
+I earned my Ph.D. in [Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) from National Cheng Kung University (NCKU), advised by [Prof. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang) in the [NetDB Lab](https://netdb.csie.ncku.edu.tw/).
 
 My research focuses on **knowledge graph embedding and reasoning**, **reinforcement learning**, **reasoning in large language models**, and **time series data analysis**.
 
