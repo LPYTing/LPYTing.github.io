@@ -4,8 +4,8 @@
 
 .page__footer {
   @include clearfix;
-  // background-color: var(--global-footer-bg-color);
-  background-color: rgba(255, 255, 255, 0.5);
+  //background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(84, 111, 150, 0.5);
   backdrop-filter: blur(6px);
   color: var(--global-text-color-light);
 
