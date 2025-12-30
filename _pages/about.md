@@ -77,6 +77,8 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*May 2025*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Apr. 2025*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Feb. 2025*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Jul. 2024*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Jun. 2024*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
 
 
 <hr style="border: 0.1px solid #000;">
