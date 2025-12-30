@@ -27,7 +27,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
 <span style="display:inline-block;background:dimgray;color:white;padding:3px 3px;border-radius:5px;font-size:14px;font-weight:500;">**NOTICE**</span> If you are applying for a Master's degree, please apply to the <ins>Institute of Computer Science and Engineering (資訊工程所甲組)</ins> or <ins>Data Science and Engieering (數據科學與工程研究所) programs</ins>. After you recieve an offer of admission, please feel free to reach out!
 </span>
 
-<hr style="border: 1px solid #000;">
+<hr style="border: 0.1px solid #000;">
 
 Research Interests
 ======
@@ -35,7 +35,7 @@ Research Interests
 My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More detailscan be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
 
 
-<hr style="border: 1px solid #000;">
+<hr style="border: 0.1px solid #000;">
 
 
 📢 News
@@ -50,13 +50,13 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Feb. 2025*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
 
 
-<hr style="border: 1px solid #000;">
+<hr style="border: 0.1px solid #000;">
 
 
 Education
 ======
 
-<hr style="border: 1px solid #000;">
+<hr style="border: 0.1px solid #000;">
 
 
 :school: Experience
