@@ -32,13 +32,14 @@ I received my PhD degree in [Computer Science and Information Engineering](https
   }
 </style>
 
-<div style="text-align:center;">
+<div style="text-align:center;background-color:#F2F2F2;">
   <a class="navlink" href="#research">Research Interests</a> |
   <a class="navlink" href="#exper">Experience</a> |
   <a class="navlink" href="#edu">Education</a> |
   <a class="navlink" href="#news">News</a>
 </div>
 
+<br><br>
 <span style="
   display:inline-block;
   padding:6px 12px;
