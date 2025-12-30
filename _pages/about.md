@@ -28,7 +28,7 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
 - <ins>*Dec. 2025*</ins>: <span style="background-color:#D7601A;color:white">**[Award]**</span> 🏆 Our paper "*CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration*" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:#B1271B">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 !
 - <ins>*Oct. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 One paper is accepted to **IEEE BigData 2025**!
 - <ins>*Oct. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 Two papers are accepted to workshops of **NeurIPS 2025**!
-- <ins>*Jun. 2025*</ins>: <span style="background-color:#99D3C5;color:white">**[Gradudate]**</span> 🎓👩🏻‍🎓🎉🎉 Congrats to myself for successfully defneding my PhD thesis 🥳 !
+- <ins>*Jun. 2025*</ins>: <span style="background-color:#99D3C5;color:white">**[Gradudate]**</span> 🎓👩🏻‍🎓🎉 Congrats to myself for successfully defneding my PhD thesis 🥳 !
 - <ins>*May 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 One paper is accepted to JDSA 2025!
 - <ins>*Apr. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 Two papers are accepted to **IJCAI 2025**!
 
