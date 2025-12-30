@@ -12,6 +12,12 @@ redirect_from:
 I am an **Incoming Assistant Professor** in the [Department of Computer Science](https://www.cs.nycu.edu.tw/) at [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/nycu/en/index), starting in Feb. 2026.
 I received my PhD degree in [Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) from National Cheng Kung University (NCKU) in 2025, advised by [Prof. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang) in the [NetDB Lab](https://netdb.csie.ncku.edu.tw/).
 
+<style>
+  html { scroll-behavior: smooth; }
+</style>
+
+More Information: <a href="#research">Research Interests</a> | Expereince | Education | News
+
 <span style="
   display:inline-block;
   padding:6px 12px;
@@ -29,7 +35,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
 
 <hr style="border: 0.1px solid #000;">
 
-Research Interests
+<h2 id="research">Research Interests</h2>
 ======
 
 My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More detailscan be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
