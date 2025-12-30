@@ -37,11 +37,7 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
 - Serve as a reviewer for KDD 2026/2025, WWW 2026, NeurIPS 2025, ACM TIST 2024/2025
 - Serve as a subreviewer for ASONAM 2024, CIKM 2025
 
-:trophy: Honors & Awards
-======
-- Honorary member of the Phi Tau Phi Scholastic Honor Society of Taiwan, 2025
-- Graduate Student Study Abroad Program (GSSAP) fully funded scholarship, 2023
-- Honorary member of the Phi Tau Phi Scholastic Honor Society of Taiwan, 2020
+
 
 
 
