@@ -25,13 +25,13 @@ My research focuses on **Data Mining**, **Reinforcement Learning**,, **Knowledge
 📢 News
 ======
 - 📌 <span style="display:inline-block;background:#E0A83E;color:white;padding:2px 2px;border-radius:12px;font-size:8px;">**[Award]**</span> 🏆 <ins>*Dec. 2025*</ins>: Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:#B1271B">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 !
-- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;>**[Accepted]**</span>🎉<ins>*Oct. 2025*</ins>: One paper is accepted to **IEEE BigData 2025**!
+- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;">**[Accepted]**</span>🎉<ins>*Oct. 2025*</ins>: One paper is accepted to **IEEE BigData 2025**!
 - <ins>*Oct. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted]**</span> 🎉 Two papers are accepted to workshops of **NeurIPS 2025**!
 - <ins>*Aug. 2025*</ins>: <span style="background-color:#B4A4CF;color:white">**[Preprint]**</span> 🙌 Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
 - <ins>*Jun. 2025*</ins>: 💮<span style="background-color:#FFCDD1;color:black">**[Gradudate]**</span>💮 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
-- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;>**[Accepted]**</span>🎉 <ins>*May 2025*</ins>: One paper is accepted to **JDSA** 2025!
-- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;>**[Accepted]**</span>🎉 <ins>*Apr. 2025*</ins>: Two papers are accepted to **IJCAI 2025**!
-- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;>**[Accepted]**</span>🎉 <ins>*Feb. 2025*</ins>: One paper is accepted to **PAKDD 2025**!
+- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;">**[Accepted]**</span>🎉 <ins>*May 2025*</ins>: One paper is accepted to **JDSA** 2025!
+- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;">**[Accepted]**</span>🎉 <ins>*Apr. 2025*</ins>: Two papers are accepted to **IJCAI 2025**!
+- <span style="display:inline-block;background:#39539D;color:white;padding:2px 2px;border-radius:12px;font-size:8px;">**[Accepted]**</span>🎉 <ins>*Feb. 2025*</ins>: One paper is accepted to **PAKDD 2025**!
 
 
 
