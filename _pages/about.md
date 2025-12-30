@@ -25,7 +25,8 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
 
 News
 ======
-- **[Dec. 2025]**: <span style="color:blue">*AWARD*</span> 🎉 Our paper "CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ)[[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the
+- **[Dec. 2025]**: <span style="color:blue">*AWARD*</span> 🎉 🏆 Our paper "CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ)[[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> 🏆 at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉.
+
 
 
 Education
