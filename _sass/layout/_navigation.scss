@@ -177,6 +177,12 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
+   
+  // navigation bar border style
+  border-bottom: 1px solid #000;
+  padding-left: 2rem;
+  padding-right: 2rem;
+
   a {
     display: block;
     margin: 0 1rem;
