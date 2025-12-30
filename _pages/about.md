@@ -18,7 +18,6 @@ Research Interests
 
 My research focuses on **Data Mining**, **Reinforcement Learning**,, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More detailscan be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
 
-// such as [National Cheng Kung University Hospital (NCKUH)](https://web.hosp.ncku.edu.tw/nckm/english/HomeStyle.aspx?Type=11&ContentPage=0), [NXP Semiconductor](https://www.nxp.com/), [Tokyo Electric Power Company (TEPCO)](https://www.tepco.co.jp/en/hd/index-e.html), [Taiwan Power Company](https://www.taipower.com.tw/2763/), [Azbil Corporation](https://www.azbil.com/), [NextDrive KK](https://www.nextdrive.io/en/), and [Junyi Academy](https://official.junyiacademy.org/).
 
 -----
 
