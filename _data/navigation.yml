@@ -10,7 +10,7 @@
 main:
   - title: "Publications"
     url: /my-publications/
-  - title: "lab"
+  - title: "Lab"
     url: /
     
   # - title: "CV"
