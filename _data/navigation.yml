@@ -11,7 +11,7 @@ main:
   - title: "Publications"
     url: /my-publications/
   - title: "Lab"
-    url: /
+    url: https://lpyting.github.io
     
   # - title: "CV"
   #   url: https://LPYTing.github.io/files/lpyting_CV.pdf
