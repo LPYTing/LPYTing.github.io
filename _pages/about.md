@@ -15,8 +15,9 @@ I received my PhD degree in [Computer Science and Information Engineering](https
 <span style="
   display:inline-block;
   padding:6px 12px;
-  background:#FFF8DC;
+  background:#FEFBEB;
   border:2px dotted #000;
+  color: black;
   border-radius:10px;
   font-size:14px;
   font-weight:300;
