@@ -69,13 +69,3 @@ Education
   - Worked in [Dr. Nei Kato](http://www.it.is.tohoku.ac.jp/~kato/en-index.html)'s laboratory and research on the telecommunications network.
 
 
-:office: Service
-======
-- Serve as a program committee member for PAKDD 2026
-- Serve as a reviewer for KDD 2026/2025, WWW 2026, NeurIPS 2025, ACM TIST 2024/2025
-- Serve as a subreviewer for ASONAM 2024, CIKM 2025
-
-
-
-
-
