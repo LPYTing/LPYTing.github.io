@@ -16,7 +16,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
   html { scroll-behavior: smooth; }
 </style>
 
-More Information: <a href="#research">Research Interests</a> | Expereince | Education | News
+More Information: <a href="#research">Research Interests</a> | <a href="#exper">Experience</a>| <a href="#edu">Education</a> | <a href="#news">News</a>
 
 <span style="
   display:inline-block;
@@ -36,7 +36,7 @@ More Information: <a href="#research">Research Interests</a> | Expereince | Educ
 <hr style="border: 0.1px solid #000;">
 
 <h2 id="research">Research Interests</h2>
-======
+
 
 My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More detailscan be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
 
@@ -44,8 +44,8 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <hr style="border: 0.1px solid #000;">
 
 
-📢 News
-======
+<h2 id="news">📢 News</h2>
+
 - 📌 <span style="display:inline-block;background:#E0A83E;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Award**</span> <ins>*Dec. 2025*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:#B1271B">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 !
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Oct. 2025*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Oct. 2025*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025**!
@@ -59,14 +59,14 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <hr style="border: 0.1px solid #000;">
 
 
-Education
-======
+<h2 id="edu">Education</h2>
+
 
 <hr style="border: 0.1px solid #000;">
 
 
-:school: Experience
-======
+<h2 id="exper">:school: Experience</h2>
+
 - Arizona State University, Aug. 2023 - Jan. 2025
   - Visiting Scholar
   - Worked with [Dr. Huan Liu](https://search.asu.edu/profile/255975)'s [DMML](https://dmml.asu.edu/) lab and research on clinical care, including
