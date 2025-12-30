@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 
-About Me
-======
 
 I am a **Incoming Assistant Professor** in the [Department of Computer Science](https://www.cs.nycu.edu.tw/) at [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/nycu/en/index).
 I earned my Ph.D. in [Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) from National Cheng Kung University (NCKU), advised by [Prof. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang) in the [NetDB Lab](https://netdb.csie.ncku.edu.tw/).
+
+
+Research Interests
+======
 
 My research focuses on **knowledge graph embedding and reasoning**, **reinforcement learning**, **reasoning in large language models**, and **time series data analysis**.
 
@@ -21,6 +23,13 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
 -----
 
 
+News
+======
+- **[Dec. 2025]**: <span style="color:blue">*AWARD*</span> 🎉 Our paper "CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ)[[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the
+
+
+Education
+======
 
 :school: Experience
 ======
