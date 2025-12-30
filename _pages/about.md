@@ -29,9 +29,9 @@ I have collaborated with experts across healthcare, smart energy, integrated cir
 - <ins>*Oct. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 One paper is accepted to **IEEE BigData 2025**!
 - <ins>*Oct. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 Two papers are accepted to workshops of **NeurIPS 2025**!
 - <ins>*Jun. 2025*</ins>: <span style="background-color:#99D3C5;color:white">**[Gradudate]**</span> 🎓👩🏻‍🎓🎉 Congrats to myself for successfully defending my PhD thesis 🥳 !
-- <ins>*May 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 One paper is accepted to JDSA 2025!
+- <ins>*May 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 One paper is accepted to **JDSA** 2025!
 - <ins>*Apr. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 Two papers are accepted to **IJCAI 2025**!
-
+- <ins>*Fed. 2025*</ins>: <span style="background-color:#39539D;color:white">**[Accepted Paper]**</span> 🎉 One paper is accepted to **PAKDD 2025**!
 
 
 
