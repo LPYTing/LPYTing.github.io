@@ -85,7 +85,7 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
-  // height: 36px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -94,10 +94,12 @@
   }
 
   img {
-    width: 110px;
-    height: 110px;
+    width: 130px;
+    height: 130px;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 10px;
+    height: auto;
     // border-radius: 50%;
 
     @include breakpoint($large) {
