@@ -14,7 +14,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
 
 📢 I am actively seeking motivated undergraduate / Master/ Ph.D. students to join our lab. If you are interested in data mining and reinforcement learning, or related topics in healthcare, time series analysis or LLM reasoning, please feel to free reach out to me via email with your CV/resume.
 
-<span style="display:inline-block;background:gray;color:black;padding:2px 3px;border-radius:8px;font-size:14px;">**[NOTICE]**</span> For Master's applicants, please apply to either the Institute of Computer Science and Engineering (資訊工程所甲組) or Data Science and Engieering (數據科學與工程研究所) programs, and reach out after you recieve your addmission offer.
+<span style="display:inline-block;background:gray;color:black;padding:2px 3px;border-radius:8px;font-size:14px;">**[NOTICE]**</span> If you are applying for a Master's degree, please apply to the Institute of Computer Science and Engineering (資訊工程所甲組) or Data Science and Engieering (數據科學與工程研究所) programs. After you recieve an offer of admission, please feel fre to reach out!
 
 Research Interests
 ======
