@@ -12,7 +12,7 @@ redirect_from:
 I am an **Incoming Assistant Professor** in the [Department of Computer Science](https://www.cs.nycu.edu.tw/) at [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/nycu/en/index), starting in Feb. 2026.
 I received my PhD degree in [Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) from National Cheng Kung University (NCKU) in 2025, advised by [Prof. Kun-Ta Chuang](https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang) in the [NetDB Lab](https://netdb.csie.ncku.edu.tw/).
 
-📢 I am actively seeking motivated undergraduate / Master/ Ph.D. students to join our lab. If you are interested in data mining and reinforcement learning, or related topics in healthcare, time series analysis or LLM reasoning, please feel to free reach out to me via email with your CV/resume.
+📢 I am actively seeking motivated undergraduate / Master / Ph.D. students to join our lab. If you are interested in data mining / AI / reinforcement learning, or related topics in healthcare, time series analysis or LLM reasoning, please feel to free reach out to me via email with your CV/resume.
 
 <span style="display:inline-block;background:gray;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**NOTICE**</span> If you are applying for a Master's degree, please apply to the <ins>Institute of Computer Science and Engineering (資訊工程所甲組)</ins> or <ins>Data Science and Engieering (數據科學與工程研究所) programs</ins>. After you recieve an offer of admission, please feel free to reach out!
 
