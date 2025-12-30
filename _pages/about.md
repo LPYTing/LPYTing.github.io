@@ -18,8 +18,8 @@ I received my PhD degree in [Computer Science and Information Engineering](https
   background:#FEFBEB;
   border:2px dotted #000;
   color: black;
-  border-radius:15px;
-  font-size:14px;
+  border-radius:8px;
+  font-size:17px;
   font-weight:300;
   white-space:normal;
 ">
