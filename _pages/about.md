@@ -40,7 +40,7 @@ I received my PhD degree in [Computer Science and Information Engineering](https
   <a class="navlink" href="#news">News</a>
 </div>
 
-<br><br>
+<br>
 <span style="
   display:inline-block;
   padding:6px 12px;
