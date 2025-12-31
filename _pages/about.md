@@ -32,7 +32,7 @@ I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_
   }
 </style>
 
-<div style="text-align:center;background-color:#F2F2F2;">
+<div style="text-align:center;">
   <a class="navlink" href="#research">Research Interests</a> |
   <a class="navlink" href="#exper">Experience</a> |
   <a class="navlink" href="#edu">Education</a> |
