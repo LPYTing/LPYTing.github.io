@@ -36,9 +36,9 @@ More details are below ►
 
 <div style="text-align:center;">
   <a class="navlink" href="#research">Research Interests</a> |
-  <!-- <a class="navlink" href="#edu">Education</a> | -->
-  <a class="navlink" href="#exper">Experiences</a> |
-  <a class="navlink" href="#news">News</a>
+  <a class="navlink" href="#news">News</a> |
+  <a class="navlink" href="#exper">Experiences</a>
+  
 </div>
 
 <br>
