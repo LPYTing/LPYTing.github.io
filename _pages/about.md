@@ -86,7 +86,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 </style>
 
 - <span style="display:inline-block;box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);">📌
-  <span class="my-label-award"">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
+  <span class="my-label-award">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
   - 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
   </span>
 - <span class="my-label-conf">**Conference**</span> <ins>*2025.12*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
