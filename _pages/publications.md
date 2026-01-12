@@ -18,9 +18,16 @@ author_profile: true
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
+<hr style="border: 0.1px solid #000; margin: 2em 0;">
+
+
 <h2>Selected Papers</h2>
 
 <h3>2025</h3>
+
+- Towards Hierarchical Multi-Agent Decision-Making for Uncertainty-Aware EV Charging  <a href="https://arxiv.org/pdf/2412.18047" target="_blank">[ArXiv]</a><br />
+**Lo Pang-Yun Ting**, Ali Senol, Huan-Yang Wang, Hsu-Chao Lai, Kun-Ta Chuang, Huan Liu<br />
+*IEEE BigData, 2025*
 
 ---
 
