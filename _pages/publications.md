@@ -11,17 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-:loudspeaker: Recent Preprints
------
+<h2>Recent Preprints</h2>
+
 1. Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes [[pdf](https://arxiv.org/pdf/2506.05386?)]<br />
 **Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
 2. CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration [[pdf](https://arxiv.org/pdf/2501.16365)]<br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
-:page_facing_up: Selected Papers
------
-1. **IJCAI 2025**, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System [[pdf](https://arxiv.org/pdf/2505.01305?)]<br />
+<h2>Selected Papers</h2>
+
+<h3>2025</h3>
+
+---
+
+<h3>2024</h3>
+
+- **IJCAI 2025**, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System [[pdf](https://arxiv.org/pdf/2505.01305?)]<br />
 **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang 
 2. **IJCAI 2025**, DeCo: Defect-Aware Modeling with Contrasting Matching for Optimizing Task Assignment in Online IC Testing [[pdf](https://arxiv.org/pdf/2505.00278)]<br />
 **Lo Pang-Yun Ting**, Yu-Hao Chiang, Yi-Tung Tsai, Hsu-Chao Lai, Kun-Ta Chuang
