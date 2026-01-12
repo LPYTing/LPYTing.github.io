@@ -18,8 +18,7 @@ author_profile: true
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
-<hr style="border: 0.1px solid #000; margin: 2em 0;">
-
+---
 
 <h2>Selected Papers</h2>
 
@@ -50,23 +49,38 @@ author_profile: true
 <em>International Journal of Data Science and Analytics (JDSA)</em>, 2025
 
 - Hypergraph-Enhanced Kernel Initialization for Convolutional LSTM Networks: Insights from Asset Correlation Forecasting <a href="https://link.springer.com/chapter/10.1007/978-981-96-8180-8_4" target="_blank">[PDF]</a><br />
-**Lo Pang-Yun Ting**\*, Hua-Cheng Cheng\*, Yu-Hua Zeng & Kun-Ta Chuang
+**Lo Pang-Yun Ting**\*, Hua-Cheng Cheng\*, Yu-Hua Zeng & Kun-Ta Chuang<br />
 <em>The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2025
 
 
----
 
 <h3>2024</h3>
+- Online Spatial-Temporal EV Charging Scheduling with Incentive Promotion <a href="https://dl.acm.org/doi/full/10.1145/3678180" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Huan-Yang Wang, Jhe-Yun Jhang, Kun-Ta Chuang<br />
+<em>ACM Transactions on Intelligent Systems and Technology (**ACM TIST**)</em>, 2024
 
-3. **ACM TIST 2024**, Online Spatial-Temporal EV Charging Scheduling with Incentive Promotion [[pdf](https://dl.acm.org/doi/full/10.1145/3678180)]<br />
-**Lo Pang-Yun Ting**, Huan-Yang Wang, Jhe-Yun Jhang, Kun-Ta Chuang
-4. **ACM TIST 2024**, An Explore–Exploit Workload-Bounded Strategy for Rare Event Detection in Massive Energy Sensor Time Series [[pdf](https://dl.acm.org/doi/full/10.1145/3657641)]<br />
-**Lo Pang-Yun Ting**, Rong Chao, Chai-Shi Chang, Kun-Ta Chuang
-5. **ICDM 2020**, Learning personal conscientiousness from footprints in E-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338404)]<br />
+- An Explore–Exploit Workload-Bounded Strategy for Rare Event Detection in Massive Energy Sensor Time Series <a href="https://dl.acm.org/doi/full/10.1145/3657641" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Rong Chao, Chai-Shi Chang, Kun-Ta Chuang<br />
+<em>ACM Transactions on Intelligent Systems and Technology (**ACM TIST**)</em>, 2024
+
+- A Confidence-Based Power-Efficient Framework for Sleep Stage Classification on Consumer Wearables <a href="https://ieeexplore.ieee.org/abstract/document/10826016" target="_blank">[PDF]</a><br />
+Hsu-Chao Lai, Po-Hsiang Fang, Yi-Ting Wu, **Lo Pang-Yun Ting**, Kun-Ta Chuang<br />
+*The 12th IEEE International Conference on Big Data (IEEE BigData)*, 2024
+
+- Multi-agent Reinforcement Learning for Online Placement of Mobile EV Charging Stations <a href="https://link.springer.com/chapter/10.1007/978-981-97-2262-4_23" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Chi-Chun Lin, Shih-Hsun Lin, Yu-Lin Chu & Kun-Ta Chuang<br />
+<em>The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2024
+
+
+<h3>2020</h3>
+
+-**ICDM 2020**, Learning personal conscientiousness from footprints in E-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338404)]<br />
 **Lo Pang-Yun Ting**, Shan-Yun Teng, Kun-Ta Chuang, Ee-Peng Lim
-6. **CogMI 2020**, Learning latent perception graphs for personalized unknowns recommendation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319281)]<br />
+-**CogMI 2020**, Learning latent perception graphs for personalized unknowns recommendation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319281)]<br />
 **Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu
-7. **ICDM 2018**, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]<br />
+
+<h3>2018</h3>
+- **ICDM 2018**, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]<br />
 Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
 
 
