@@ -70,11 +70,11 @@ Following are some representative works:
 
 <style>
   .my-label{
-    display:inline-block;
-    padding:3px 3px;
-    border-radius:5px;
-    font-size:14px;
-    color:white;
+    /* display: inline-block; */
+    padding: 1px 3px;
+    /* border-radius:5px; */
+    font-size: 13px;
+    color: white;
   }
   .my-label.award   { background:#E3B43F; }
   .my-label.conf    { background:#88CBAE; }
