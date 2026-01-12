@@ -74,15 +74,13 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
     padding:3px 3px;
     border-radius:5px;
     font-size:14px;
-    color: var(--label-fg, white);
-    background: var(--label-bg, #999);
+    color:white;
   }
-  
-  .my-label.award   { --label-bg:#E3B43F; }
-  .my-label.conf    { --label-bg:#88CBAE; }
-  .my-label.accept  { --label-bg:#39539D; }
-  .my-label.preprint{ --label-bg:#64AACB; }
-  .my-label.grad    { --label-bg:#FFCDD1; --label-fg:black; }
+  .my-label.award   { background:#E3B43F; }
+  .my-label.conf    { background:#88CBAE; }
+  .my-label.accept  { background:#39539D; }
+  .my-label.preprint{ background:#64AACB; }
+  .my-label.grad    { background:#FFCDD1; color:black; }
 </style>
 
 - <span style="display:inline-block;box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);">📌
