@@ -102,15 +102,13 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <h3>Work</h3>
 
 
-- **National Cheng Kung University**
-- Arizona State University, Aug. 2023 - Jan. 2025
-  - Visiting Scholar
-  - Worked with [Dr. Huan Liu](https://search.asu.edu/profile/255975)'s [DMML](https://dmml.asu.edu/) lab and research on clinical care, including
-    - Early detection of illness deterioration.
-    - Reasoning granularity control in LLMs for clinical note generation.
-- Information Technology Curriculum and Instruction Center, Sep. 2020 - Feb. 2022
-  - Lecturer
-  - Gave several lessons on big data analysis, database, and data mining for high school teachers.
+- <span style="display:inline-block;">**2025.08 - 2025.12**</span>  <span style="display:inline-block;">Postdoctoral Researcher</span>
+  <br>National Cheng Kung University
+  
+- <span style="display:inline-block;">**2023.08 - 2025.01**</span>  <span style="display:inline-block;">Visiting Scholar</span>
+  <br><a href="https://www.asu.edu/" target="_blank">Arizona State University<>
+  <br><a href="https://dmml.asu.edu/" target="_blank">Data Mining and Machine Learning Lab (DMML)</a>, led by <a href="https://search.asu.edu/profile/255975" target="_blank">Prof. Huan Liu</a>
+
 - Tohoku University, Oct. 2019 - Jul. 2020
   - Exchange Student
   - Worked in [Dr. Nei Kato](http://www.it.is.tohoku.ac.jp/~kato/en-index.html)'s laboratory and research on the telecommunications network.
