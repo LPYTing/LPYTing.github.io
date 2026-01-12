@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  All my articles can be found here ► <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a> <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a>
+  All my articles ► <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a> <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a>
 {% endif %}
 
 {% include base_path %}
