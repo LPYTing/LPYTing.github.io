@@ -68,8 +68,10 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 
 <h2 id="news">📢 News</h2>
 
-- 📌 <span style="display:inline-block;background:#E3B43F;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 !
+- <span style="display:inline-block;box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);">📌
+  <span style="display:inline-block;background:#E3B43F;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
   - 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
+  </span>
 - <span style="display:inline-block;background:#88CBAE;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Conference**</span> <ins>*2025.12*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
 - <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
