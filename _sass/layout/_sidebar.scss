@@ -86,8 +86,6 @@
   width: 90px;
   // set width only, for non-square avatars
   height: 90px;
-  border-radius: 7px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 
   @include breakpoint($large) {
     display: block;
@@ -103,6 +101,8 @@
     border-radius: 7px;
     height: auto;
     // border-radius: 50%;
+     border-radius: 7px;
+     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 
     @include breakpoint($large) {
       padding: 2px;
