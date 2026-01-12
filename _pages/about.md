@@ -75,7 +75,7 @@ Following are some representative works:
     /* display: inline-block; */
     padding: 1px 3px;
     /* border-radius:5px; */
-    font-size: 13px;
+    font-size: 15px;
     color: white;
     font-weight: 500px;
   }
