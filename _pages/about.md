@@ -78,11 +78,11 @@ Following are some representative works:
     font-size: 14px;
     font-weight: 500;
   }
-  .my-label.award   { color:#B78F32; border: 2px solid #B78F32;}
-  .my-label.conf    { background:#88CBAE; }
-  .my-label.accept  { background:#39539D; }
-  .my-label.preprint{ background:#64AACB; }
-  .my-label.grad    { background:#FFCDD1; color:black; }
+  .my-label.award   { color:#B78F32; border: 2px solid #B78F32; }
+  .my-label.conf    { color:#558170; border: 2px solid #558170; }
+  .my-label.accept  { color:#37529D; border: 2px solid #37529D; }
+  .my-label.preprint{ color:#5A9CBC; border: 2px solid #5A9CBC; }
+  .my-label.grad    { color:#CD776C; border: 2px solid #CD776C; }
 
   
   .news-card{
@@ -143,7 +143,7 @@ Following are some representative works:
 </div>
 
 <div class="news-card" markdown="1">
-  <ins>*2025.06*</ins> <span class="my-label grad">**Gradudate**</span>
+  <ins>*2025.06*</ins> <span class="my-label grad">**Graduate**</span>
   <div class="news-content">
     🎓👩🏻‍🎓🎉 <strong>Congrats to myself for successfully defending my PhD thesis</strong> 🥳 !
   </div>
