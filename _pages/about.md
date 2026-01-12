@@ -93,7 +93,7 @@ Following are some representative works:
 
 </style>
 
-<div class="news-card">
+<div class="news-card" markdown="1">
   <div>📌 <span class="my-label award">**Award**</span></div> 
   <ins>*2025.12*</ins> 
   <div>
