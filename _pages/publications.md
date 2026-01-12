@@ -31,7 +31,11 @@ author_profile: true
 
 - CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview]</a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu<br />
-<em> TS4H workshop @ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</em>, 2025 (<span style="color:red; font-weight:600;">Best Paper Award</span>)
+<em> TS4H workshop @ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</em>, 2025, <span style="color:red; font-weight:600;">Best Paper Award</span>
+
+- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://openreview.net/pdf?id=mszIDOG8CX" target="_blank">[OpenReview]</a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
+**Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu<br />
+<em> GenAI4Health workshop @ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</em>, 2025
 
 ---
 
