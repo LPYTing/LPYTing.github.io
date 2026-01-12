@@ -94,7 +94,7 @@ Following are some representative works:
   }
   .news-content{
     font-size: 16px;
-    margin-top: -10px;
+    margin-top: -15px;
   }
 
 </style>
