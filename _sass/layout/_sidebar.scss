@@ -99,10 +99,10 @@
     aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 7px;
-    height: auto;
-    // border-radius: 50%;
-     border-radius: 7px;
-     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    border-radius: 7px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+
+    display: block;
 
     @include breakpoint($large) {
       padding: 2px;
