@@ -31,7 +31,7 @@ author_profile: true
 
 - CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu<br />
-<em><strong>NeurIPS 2025</strong>, TS4H workshop</em>, 2025
+<em> TS4H workshop @ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</em>, 2025 (<span style="color:red; font-weight:600;">Best Paper Award</span>)
 
 ---
 
