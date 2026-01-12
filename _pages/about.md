@@ -12,6 +12,8 @@ I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/mem
 
 I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from National Cheng Kung University (NCKU) in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
 
+More details are below ►
+
 <style>
   html { scroll-behavior: smooth; }
   .navlink {
