@@ -91,7 +91,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 
 <h3>Education</h3>
 
-- <span style="display:inline-block;font-weight: 500;color:#3D5874">**2020.09 - 2025.06**</span>  Ph.D.
+- <span style="display:inline-block;font-weight: 500;color:#3D5874">**2020.09 - 2025.06**</span>  <span style="display:inline-block;color:#3D5874">Ph.D.</span>
   Computer Science and Information Engineering, National Cheng Kung University
 - **2017.09 - 2019.06**  M.S.
   Computer Science and Information Engineering, National Cheng Kung University
