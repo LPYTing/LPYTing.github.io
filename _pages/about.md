@@ -89,11 +89,12 @@ Following are some representative works:
   .news-card{
     border:1px solid #e6e6e6;
     border-radius: 2px;
-    padding: 22px 26px;
+    padding: 10px 26px;
     margin-bottom: 10px;
   }
   .news-content{
     font-size: 16px;
+    margin-top: -10px;
   }
 
 </style>
