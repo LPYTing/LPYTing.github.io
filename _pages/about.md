@@ -75,11 +75,10 @@ Following are some representative works:
     /* display: inline-block; */
     padding: 1px 3px;
     /* border-radius:5px; */
-    font-size: 15px;
-    color: white;
-    font-weight: 500px;
+    font-size: 14px;
+    font-weight: 500;
   }
-  .my-label.award   { background:#E3B43F; }
+  .my-label.award   { color:#B78F32; border: 2px solid #B78F32;}
   .my-label.conf    { background:#88CBAE; }
   .my-label.accept  { background:#39539D; }
   .my-label.preprint{ background:#64AACB; }
