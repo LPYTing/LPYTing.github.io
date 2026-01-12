@@ -129,10 +129,28 @@ Following are some representative works:
   </div>
 </div>
 
-- <span class="my-label conf">**Conference**</span> <ins>*2025.08*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
-- <span class="my-label preprint">**Preprint**</span> <ins>*2025.08*</ins>: Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
-- 💮<span class="my-label grad">**Gradudate**</span>💮 <ins>*2025.06*</ins>: 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
-- <span class="my-label accept">**Accepted**</span> <ins>*2025.05*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
+<div class="news-card" markdown="1">
+  <ins>*2025.08*</ins> <span class="my-label conf">**Conference**</span>
+  <div class="news-content">
+    👋 Attending and presenting at <strong>IJCAI 2025</strong> at Montreal, Canada!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2025.08*</ins> <span class="my-label preprint">**Preprint**</span>
+  <div class="news-content">
+    Our paper "<strong>Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes</strong>" is now on <a href="https://arxiv.org/pdf/2506.05386" target="_blank">ArXiv!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2025.06*</ins> <span class="my-label grad">**Gradudate**</span>
+  <div class="news-content">
+    🎓👩🏻‍🎓🎉 <strong>Congrats to myself for successfully defending my PhD thesis</strong> 🥳 !
+  </div>
+</div>
+
+<span class="my-label accept">**Accepted**</span> <ins>*2025.05*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.04*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.02*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
 - <span sclass="my-label conf">**Conference**</span> <ins>*2024.12*</ins>: 👋 Attending and presenting at **IEEE BigData 2024** at Washington D.C., US!
