@@ -105,8 +105,13 @@ Following are some representative works:
   <br>&nbsp;&nbsp; ► 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
   </div>
 </div>
- 
-- <span class="my-label conf">**Conference**</span> <ins>*2025.12*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
+
+<div class="news-card" markdown="1">
+  <ins>*2025.12*</ins> <span class="my-label conf">**Conference**</span> 
+  <div class="news-content">
+    👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
+  </div>
+</div>
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
 - <span class="my-label conf">**Conference**</span> <ins>*2025.08*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
