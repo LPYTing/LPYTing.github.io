@@ -12,9 +12,9 @@ author_profile: true
 
 <h2>Recent Preprints</h2>
 
-- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://arxiv.org/pdf/2506.05386?" target="_blank">[PDF]</a><br />
+- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://arxiv.org/pdf/2506.05386?" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
-- CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[PDF]</a><br />
+- CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
@@ -28,6 +28,10 @@ author_profile: true
 - Towards Hierarchical Multi-Agent Decision-Making for Uncertainty-Aware EV Charging  <a href="https://arxiv.org/pdf/2412.18047" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Ali Senol, Huan-Yang Wang, Hsu-Chao Lai, Kun-Ta Chuang, Huan Liu<br />
 *The 13th IEEE International Conference on Big Data (IEEE BigData)*, 2025
+
+- CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
+**Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu<br />
+<em><strong>NeurIPS 2025</strong>, TS4H workshop</em>, 2025
 
 ---
 
