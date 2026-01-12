@@ -61,7 +61,7 @@ More details about me ▼
 
 
 My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
-Following are some representative works:
+
 
 <hr style="border: 0.1px solid #000; margin: 3em 0;">
 
