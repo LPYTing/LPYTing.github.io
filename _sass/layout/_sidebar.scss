@@ -82,11 +82,11 @@
 
 .author__avatar {
   // display: table-cell;
-  vertical-align: top;
-  width: 90px;
-  // set width only, for non-square avatars
-  height: 90px;
   display: flex;
+  vertical-align: top;
+  width: auto;
+  // set width only, for non-square avatars
+  height: auto;
   flex-direction: column-reverse;
   align-items: center;
 
