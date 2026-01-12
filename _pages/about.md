@@ -81,10 +81,24 @@ Following are some representative works:
   .my-label.accept  { background:#39539D; }
   .my-label.preprint{ background:#64AACB; }
   .my-label.grad    { background:#FFCDD1; color:black; }
+
+  
+  .news-card{
+    border:1px solid #e6e6e6;
+    border-radius: 2px;
+    padding: 22px 26px;
+  }
+
 </style>
 
-- 📌 <span class="my-label award">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
-  - 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
+<div class="news-card">
+  <div>📌 <span class="my-label award">**Award**</span></div> 
+  <ins>*2025.12*</ins> 
+  <div>
+    🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
+    <br>📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
+  </div>
+</div>
  
 - <span class="my-label conf">**Conference**</span> <ins>*2025.12*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
