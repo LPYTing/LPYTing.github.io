@@ -61,7 +61,7 @@ I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_
 
 
 My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
-
+Following are some representative works:
 
 <hr style="border: 0.1px solid #000;">
 
@@ -83,21 +83,21 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   .my-label.grad    { background:#FFCDD1; color:black; }
 </style>
 
-- 📌 <span class="my-label-award">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
+- 📌 <span class="my-label award">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
   - 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
  
-- <span class="my-label-conf">**Conference**</span> <ins>*2025.12*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
-- <span class="my-label-accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
-- <span class="my-label-accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
-- <span class="my-label-conf">**Conference**</span> <ins>*2025.08*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
+- <span class="my-label conf">**Conference**</span> <ins>*2025.12*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
+- <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
+- <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
+- <span class="my-label conf">**Conference**</span> <ins>*2025.08*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
 - <span class="my-label-preprint">**Preprint**</span> <ins>*2025.08*</ins>: Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
-- 💮<span class="my-label-grad">**Gradudate**</span>💮 <ins>*2025.06*</ins>: 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
-- <span class="my-label-accept">**Accepted**</span> <ins>*2025.05*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
-- <span class="my-label-accept">**Accepted**</span> <ins>*2025.04*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
-- <span class="my-label-accept">**Accepted**</span> <ins>*2025.02*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
-- <span sclass="my-label-conf">**Conference**</span> <ins>*2024.12*</ins>: 👋 Attending and presenting at **IEEE BigData 2024** at Washington D.C., US!
-- <span class="my-label-accept">**Accepted**</span> <ins>*2024.07*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
-- <span class="my-label-accept">**Accepted**</span> <ins>*2024.06*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
+- 💮<span class="my-label grad">**Gradudate**</span>💮 <ins>*2025.06*</ins>: 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
+- <span class="my-label accept">**Accepted**</span> <ins>*2025.05*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
+- <span class="my-label accept">**Accepted**</span> <ins>*2025.04*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
+- <span class="my-label accept">**Accepted**</span> <ins>*2025.02*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
+- <span sclass="my-label conf">**Conference**</span> <ins>*2024.12*</ins>: 👋 Attending and presenting at **IEEE BigData 2024** at Washington D.C., US!
+- <span class="my-label accept">**Accepted**</span> <ins>*2024.07*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
+- <span class="my-label accept">**Accepted**</span> <ins>*2024.06*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
 
 
 <hr style="border: 0.1px solid #000;">
