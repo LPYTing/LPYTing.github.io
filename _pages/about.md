@@ -124,7 +124,7 @@ Following are some representative works:
 <div class="news-card" markdown="1">
   <ins>*2025.10*</ins> <span class="my-label accept">**Acceptance**</span>
   <div class="news-content">
-    🎉 Two papers are Acceptance to workshops of <strong>NeurIPS 2025</strong> (GenAI4Health, TS4H)** <span style="color:red; font-weight=bold;">(One Spotlight)</span>!
+    🎉 Two papers are Acceptance to workshops of <strong>NeurIPS 2025</strong> (GenAI4Health, TS4H) <span style="color:red; font-weight=bold;">(One Spotlight)</span>!
   </div>
 </div>
 
