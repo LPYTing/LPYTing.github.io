@@ -87,6 +87,7 @@
   // set width only, for non-square avatars
   height: 90px;
   display: flex;
+  flex-direction: column-reverse;
   align-items: center;
 
   @include breakpoint($large) {
