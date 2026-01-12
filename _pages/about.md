@@ -171,7 +171,7 @@ Following are some representative works:
 </div>
 
 <div class="news-card" markdown="1">
-  <ins>*2024.12*</ins> <span sclass="my-label conf">**Conference**</span>
+  <ins>*2024.12*</ins> <span class="my-label conf">**Conference**</span>
   <div class="news-content">
     👋 Attending and presenting at <strong>IEEE BigData 2024</strong> at Washington D.C., US!
   </div>
