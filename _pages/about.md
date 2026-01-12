@@ -108,11 +108,11 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   <br><a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a>, <a href="https://web.ncku.edu.tw/index.php?Lang=en">National Cheng Kung University</a> (➤ *Tainan, Taiwan*)
   
 - <span style="display:inline-block;">**2023.08 - 2025.01**</span>  <span style="display:inline-block;">Visiting Scholar</span>
-  <br><a href="https://scai.engineering.asu.edu/">School of Computing and Augmented Intelligence</a>, <a href="https://www.asu.edu/" target="_blank">Arizona State University</a> (➤ *Tempe, Arizona, United States*)
+  <br><a href="https://scai.engineering.asu.edu/" target="_blank">School of Computing and Augmented Intelligence</a>, <a href="https://www.asu.edu/" target="_blank">Arizona State University</a> (➤ *Tempe, Arizona, United States*)
   <br><a href="https://dmml.asu.edu/" target="_blank">Data Mining and Machine Learning Lab (DMML)</a>, led by <a href="https://search.asu.edu/profile/255975" target="_blank">Prof. Huan Liu</a>
 
 - <span style="display:inline-block;">**2019.10 - 2020.08**</span>  <span style="display:inline-block;">Exchange Student</span>
-  <br><a href="https://www.is.tohoku.ac.jp/en/">Graduate School of Information Sciences</a>, <a href="https://www.tohoku.ac.jp/en/" target="_blank">Tohoku University</a> (➤ *Sendai, Miyagi, Japan*)
+  <br><a href="https://www.is.tohoku.ac.jp/en/" target="_blank">Graduate School of Information Sciences</a>, <a href="https://www.tohoku.ac.jp/en/" target="_blank">Tohoku University</a> (➤ *Sendai, Miyagi, Japan*)
   <br><a href="http://www.it.is.tohoku.ac.jp/en/" target="_blank">Kato Laboratory</a>, led by <a href="http://www.it.is.tohoku.ac.jp/~kato/en-index.html" target="_blank">Prof. Nei Kato</a>
 
 
