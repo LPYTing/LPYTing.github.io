@@ -55,7 +55,8 @@ More details about me ▼
 <span style="display:inline-block;background:dimgray;color:white;padding:3px 3px;border-radius:5px;font-size:14px;font-weight:500;">**NOTICE**</span> If you are applying for a Master's degree, please apply to the <ins>Institute of Computer Science and Engineering (資訊工程所甲組)</ins> or <ins>Data Science and Engieering (數據科學與工程研究所) programs</ins>. After you receive an offer of admission, please feel free to reach out!
 </span>
 
-<hr style="border: 0.1px solid #000;">
+
+<hr style="border: 0.1px solid #000; margin: 2em 0;">
 
 <h2 id="research">:page_facing_up: Research Interests</h2>
 
@@ -63,7 +64,7 @@ More details about me ▼
 My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my [CV](https://LPYTing.github.io/files/lpyting_CV.pdf).
 
 
-<hr style="border: 0.1px solid #000; margin: 3em 0;">
+<hr style="border: 0.1px solid #000; margin: 2em 0;">
 
 
 <h2 id="news">📢 News</h2>
@@ -192,7 +193,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 
 
 
-<hr style="border: 0.1px solid #000; margin: 3em 0;">
+<hr style="border: 0.1px solid #000; margin: 2em 0;">
 
 
 <h2 id="exper">💼 Experiences</h2>
