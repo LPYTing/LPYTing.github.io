@@ -106,7 +106,7 @@ Following are some representative works:
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
 - <span class="my-label conf">**Conference**</span> <ins>*2025.08*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
-- <span class="my-label-preprint">**Preprint**</span> <ins>*2025.08*</ins>: Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
+- <span class="my-label preprint">**Preprint**</span> <ins>*2025.08*</ins>: Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
 - 💮<span class="my-label grad">**Gradudate**</span>💮 <ins>*2025.06*</ins>: 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.05*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.04*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
