@@ -126,3 +126,8 @@ Program Committee (PC) Member / Reviewer
 - CIKM 2025
 - ASONAM 2024
 - ACM TIST
+
+
+<h3>Talks/Tutorials</h3>
+<a href="https://www.youtube.com/@%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%AD%B8%E7%A7%91%E4%B8%AD%E5%BF%83" target="_blank">Information Technology Curriculum and Instruction Center (資訊科技學科中心)</a> (2021.02, 2021.08, 2022.01)
+
