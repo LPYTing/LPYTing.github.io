@@ -102,7 +102,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <h3>Work</h3>
 
 - <span style="display:inline-block;">**2026.02 - current**</span>  <span style="display:inline-block;">Assistant Professor</span>
-  <br><a href="https://www.cs.nycu.edu.tw/" target="_blank">Dept. of Computer Science</a>, <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> *(Hsinchu, Taiwan)*
+  <br><a href="https://www.cs.nycu.edu.tw/" target="_blank">Dept. of Computer Science</a>, <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> (:round_pushpin: *Hsinchu, Taiwan*)
   
 - <span style="display:inline-block;">**2025.08 - 2025.12**</span>  <span style="display:inline-block;">Postdoctoral Researcher</span>
   <br><a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a>, <a href="https://web.ncku.edu.tw/index.php?Lang=en">National Cheng Kung University</a> *(Tainan, Taiwan)*
