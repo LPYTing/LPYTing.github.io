@@ -27,7 +27,7 @@ author_profile: true
 
 - Towards Hierarchical Multi-Agent Decision-Making for Uncertainty-Aware EV Charging  <a href="https://arxiv.org/pdf/2412.18047" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Ali Senol, Huan-Yang Wang, Hsu-Chao Lai, Kun-Ta Chuang, Huan Liu<br />
-*IEEE BigData, 2025*
+*The 13th IEEE International Conference on Big Data (IEEE BigData)*, 2025
 
 ---
 
