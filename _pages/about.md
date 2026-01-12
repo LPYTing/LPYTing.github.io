@@ -106,7 +106,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   <br>National Cheng Kung University
   
 - <span style="display:inline-block;">**2023.08 - 2025.01**</span>  <span style="display:inline-block;">Visiting Scholar</span>
-  <br><a href="https://www.asu.edu/" target="_blank">Arizona State University<>
+  <br><a href="https://www.asu.edu/" target="_blank">Arizona State University</a>
   <br><a href="https://dmml.asu.edu/" target="_blank">Data Mining and Machine Learning Lab (DMML)</a>, led by <a href="https://search.asu.edu/profile/255975" target="_blank">Prof. Huan Liu</a>
 
 - Tohoku University, Oct. 2019 - Jul. 2020
