@@ -139,7 +139,7 @@ Following are some representative works:
 <div class="news-card" markdown="1">
   <ins>*2025.08*</ins> <span class="my-label preprint">**Preprint**</span>
   <div class="news-content">
-    Our paper "<strong>Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes</strong>" is now on <a href="https://arxiv.org/pdf/2506.05386" target="_blank">ArXiv!
+    Our paper "<em>Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes</em>" is now on <a href="https://arxiv.org/pdf/2506.05386" target="_blank">ArXiv!
   </div>
 </div>
 
@@ -150,12 +150,48 @@ Following are some representative works:
   </div>
 </div>
 
-<span class="my-label accept">**Accepted**</span> <ins>*2025.05*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
-- <span class="my-label accept">**Accepted**</span> <ins>*2025.04*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
-- <span class="my-label accept">**Accepted**</span> <ins>*2025.02*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
-- <span sclass="my-label conf">**Conference**</span> <ins>*2024.12*</ins>: 👋 Attending and presenting at **IEEE BigData 2024** at Washington D.C., US!
-- <span class="my-label accept">**Accepted**</span> <ins>*2024.07*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
-- <span class="my-label accept">**Accepted**</span> <ins>*2024.06*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
+<div class="news-card" markdown="1">
+  <ins>*2025.05*</ins> <span class="my-label accept">**Accepted**</span>
+  <div class="news-content">
+    🎉 One paper is accepted to <strong>JDSA</strong> 2025!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2025.04*</ins> <span class="my-label accept">**Accepted**</span>
+  <div class="news-content">
+    🎉 Two papers are accepted to <strong>IJCAI 2025</strong>!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2025.02*</ins> <span class="my-label accept">**Accepted**</span>
+  <div class="news-content">
+    🎉 One paper is accepted to <strong>PAKDD 2025</strong>!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2024.12*</ins> <span sclass="my-label conf">**Conference**</span>
+  <div class="news-content">
+    👋 Attending and presenting at <strong>IEEE BigData 2024</strong> at Washington D.C., US!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2024.07*</ins> <span class="my-label accept">**Accepted**</span>
+  <div class="news-content">
+    🎉 One paper is accepted to <strong>ACM TIST</strong> 2024!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2024.06*</ins> <span class="my-label accept">**Accepted**</span>
+  <div class="news-content">
+    🎉 One paper is accepted to <strong>ACM TIST</strong> 2024!
+  </div>
+</div>
+
 
 
 <hr style="border: 0.1px solid #000;">
