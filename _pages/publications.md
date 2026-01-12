@@ -72,15 +72,46 @@ Hsu-Chao Lai, Po-Hsiang Fang, Yi-Ting Wu, **Lo Pang-Yun Ting**, Kun-Ta Chuang<br
 <em>The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2024
 
 
+<h3>2022</h3>
+- An incentive dispatch algorithm for utilization-perfect EV charging management<a href="https://link.springer.com/chapter/10.1007/978-3-031-05981-0_11" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Po-Hui Wu, Hsiu-Ying Chung, Kun-Ta Chuang<br />
+<em>International Journal of Data Science and Analytics (JDSA)</em>, 2022
+
+- An incentive dispatch algorithm for utilization-perfect EV charging management <a href="https://link.springer.com/chapter/10.1007/978-3-031-05981-0_11" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Po-Hui Wu, Hsiu-Ying Chung, Kun-Ta Chuang<br />
+<em>The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2022
+
+
 <h3>2020</h3>
 
--**ICDM 2020**, Learning personal conscientiousness from footprints in E-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338404)]<br />
-**Lo Pang-Yun Ting**, Shan-Yun Teng, Kun-Ta Chuang, Ee-Peng Lim
--**CogMI 2020**, Learning latent perception graphs for personalized unknowns recommendation [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319281)]<br />
-**Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu
+- Learning personal conscientiousness from footprints in E-learning systems <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338404" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Shan-Yun Teng, Kun-Ta Chuang, Ee-Peng Lim<br />
+<em>20th IEEE International Conference on Data Mining</em> (**ICDM**), 2020
+
+- Learning latent perception graphs for personalized unknowns recommendation <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319281" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu<br />
+<em>IEEE Second International Conference on Cognitive Machine Intelligence</em> (CogMI), 2020
+
+- Prediction of network traffic load on high variability data based on distance correlation <a href="https://ieeexplore.ieee.org/abstract/document/9348769" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Tiago Koketsu Rodrigues, Nei Kato, Kun-Ta Chuang<br />
+<em>IEEE 92nd Vehicular Technology Conference</em> (VTC2020-Fall), 2020
+
+
+<h3>2019</h3>
+
+- Worship prediction: identify followers in celebrity-dived networks <a href="https://link.springer.com/article/10.1007/s11280-018-0569-y" target="_blank">[PDF]</a><br />
+Shan-Yun Teng, **Lo Pang-Yun Ting**, Mi-Yen Yeh, Kun-Ta Chuang<br />
+<em>World Wide Web Journal</em>, 2019
 
 <h3>2018</h3>
-- **ICDM 2018**, Interactive unknowns recommendation in e-learning systems [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874)]<br />
-Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu
+
+- Interactive unknowns recommendation in e-learning systems <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874" target="_blank">[PDF]</a><br />
+Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu<br />
+<em>18th IEEE International Conference on Data Mining</em> (**ICDM**), 2018
+
+- Predictive team formation analysis via feature representation learning on social networks <a href="https://link.springer.com/chapter/10.1007/978-3-319-93040-4_62" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Cheng-Te Li, Kun-Ta Chuang<br />
+<em>The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2018
+
 
 
