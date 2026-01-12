@@ -98,7 +98,7 @@ Following are some representative works:
   📌
   <ins>*2025.12*</ins> <span class="my-label award">Award</span>
   <div>
-    🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview] </a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a> is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
+    🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview] </a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a> is selected as the  **Spotlight Paper** and has also received the  <span style="color:red" font-weight=500px;>Best Paper Award</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
     <br>► 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
   </div>
 </div>
