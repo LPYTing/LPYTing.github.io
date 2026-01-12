@@ -138,7 +138,7 @@ Following are some representative works:
 <div class="news-card" markdown="1">
   <ins>*2025.08*</ins> <span class="my-label preprint">**Preprint**</span>
   <div class="news-content">
-    Our paper "<em>Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes</em>" is now on <a href="https://arxiv.org/pdf/2506.05386" target="_blank">ArXiv!
+    Our paper "<em>Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes</em>" is now on <a href="https://arxiv.org/pdf/2506.05386" target="_blank">ArXiv!</a>
   </div>
 </div>
 
