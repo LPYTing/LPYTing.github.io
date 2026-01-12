@@ -45,6 +45,14 @@ author_profile: true
 **Lo Pang-Yun Ting**, Yu-Hao Chiang, Yi-Tung Tsai, Hsu-Chao Lai, Kun-Ta Chuang<br />
 <em>Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (**IJCAI**)</em>, 2025
 
+- MAC-DP: multi-agent control for dynamic placement of electric vehicle charging stations <a href="https://link.springer.com/article/10.1007/s41060-025-00838-4" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, You-Cheng Guo, Chi-Chun Lin, Shih-Hsun Lin & Kun-Ta Chuang<br />
+<em>International Journal of Data Science and Analytics (JDSA)</em>, 2025
+
+- Hypergraph-Enhanced Kernel Initialization for Convolutional LSTM Networks: Insights from Asset Correlation Forecasting <a href="https://link.springer.com/chapter/10.1007/978-981-96-8180-8_4" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**\*, Hua-Cheng Cheng\*, Yu-Hua Zeng & Kun-Ta Chuang
+<em>The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2025
+
 
 ---
 
