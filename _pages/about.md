@@ -12,7 +12,7 @@ I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/mem
 
 I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from National Cheng Kung University (NCKU) in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
 
-More details about me below ►
+More details about me ▼
 
 <style>
   html { scroll-behavior: smooth; }
@@ -114,8 +114,21 @@ Following are some representative works:
     👋 Attending and presenting (workshops) at <strong>NeurIPS 2025</strong> at San Diego, US!
   </div>
 </div>
-- <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
-- <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
+
+<div class="news-card" markdown="1">
+  <ins>*2025.10*</ins> <span class="my-label accept">**Accepted**</span> 
+  <div class="news-content">
+    🎉 One paper is accepted to <strong>IEEE BigData 2025</strong>!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2025.10*</ins> <span class="my-label accept">**Accepted**</span>
+  <div class="news-content">
+    🎉 Two papers are accepted to workshops of <strong>NeurIPS 2025</strong> (GenAI4Health, TS4H)** <span style="color:red; font-weight=bold;">(One Spotlight)</span>!
+  </div>
+</div>
+
 - <span class="my-label conf">**Conference**</span> <ins>*2025.08*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
 - <span class="my-label preprint">**Preprint**</span> <ins>*2025.08*</ins>: Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
 - 💮<span class="my-label grad">**Gradudate**</span>💮 <ins>*2025.06*</ins>: 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
