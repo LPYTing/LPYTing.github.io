@@ -1,11 +1,12 @@
 ---
 layout: archive
+title: ""
 permalink: /my-publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find all my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  All my articles can be found here ► <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a> <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a>
 {% endif %}
 
 {% include base_path %}
@@ -18,7 +19,7 @@ author_profile: true
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
-:page_facing_up: Selected Publications
+:page_facing_up: Selected Papers
 -----
 1. **IJCAI 2025**, Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System [[pdf](https://arxiv.org/pdf/2505.01305?)]<br />
 **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang 
