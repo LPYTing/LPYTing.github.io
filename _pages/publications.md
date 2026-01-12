@@ -5,16 +5,16 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  All my articles ► <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a> <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a>
+  All my articles can be found ► <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a> <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a>
 {% endif %}
 
 {% include base_path %}
 
 <h2>Recent Preprints</h2>
 
-1. Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes [[pdf](https://arxiv.org/pdf/2506.05386?)]<br />
+- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://arxiv.org/pdf/2506.05386?" target="_blank">[PDF]</a><br />
 **Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
-2. CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration [[pdf](https://arxiv.org/pdf/2501.16365)]<br />
+- CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[PDF]</a><br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
