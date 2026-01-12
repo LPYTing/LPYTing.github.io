@@ -77,6 +77,7 @@ Following are some representative works:
     /* border-radius:5px; */
     font-size: 14px;
     font-weight: 500;
+    margin-left: 3px;
   }
   .my-label.award   { color:#B78F32; border: 2px solid #B78F32; }
   .my-label.conf    { color:#558170; border: 2px solid #558170; }
@@ -89,7 +90,7 @@ Following are some representative works:
     border:1px solid #e6e6e6;
     border-radius: 2px;
     padding: 10px 26px;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
   }
   .news-content{
     font-size: 16px;
