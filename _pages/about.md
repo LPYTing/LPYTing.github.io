@@ -34,8 +34,8 @@ I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_
 
 <div style="text-align:center;">
   <a class="navlink" href="#research">Research Interests</a> |
-  <a class="navlink" href="#exper">Experience</a> |
-  <a class="navlink" href="#edu">Education</a> |
+  <!-- <a class="navlink" href="#edu">Education</a> | -->
+  <a class="navlink" href="#exper">Experiences</a> |
   <a class="navlink" href="#news">News</a>
 </div>
 
@@ -68,33 +68,38 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 
 <h2 id="news">📢 News</h2>
 
-- 📌 <span style="display:inline-block;background:#E3B43F;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Award**</span> <ins>*Dec. 2025*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 !
+- 📌 <span style="display:inline-block;background:#E3B43F;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Award**</span> <ins>*2025.12*</ins>: 🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" [[OpenReview]](https://openreview.net/pdf?id=S3UWgt7iLJ) [[ArXiv]](https://arxiv.org/pdf/2501.16365) is selected as the  **Spotlight Paper** and has also received the  <span style="color:red">**Best Paper Award**</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 !
   - 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
-- <span style="display:inline-block;background:#88CBAE;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Conference**</span> <ins>*Dec. 2025*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
-- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Oct. 2025*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
-- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Oct. 2025*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
-- <span style="display:inline-block;background:#88CBAE;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Conference**</span> <ins>*Aug. 2025*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
-- <span style="display:inline-block;background:#64AACB;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Preprint**</span> <ins>*Aug. 2025*</ins>: Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
-- 💮<span style="display:inline-block;background:#FFCDD1;color:black;padding:3px 3px;border-radius:5px;font-size:14px;">**Gradudate**</span>💮 <ins>*Jun. 2025*</ins>: 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
-- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*May 2025*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
-- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Apr. 2025*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
-- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Feb. 2025*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
-- <span style="display:inline-block;background:#88CBAE;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Conference**</span> <ins>*Dec. 2024*</ins>: 👋 Attending and presenting at **IEEE BigData 2024** at Washington D.C., US!
-- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Jul. 2024*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
-- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*Jun. 2024*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
+- <span style="display:inline-block;background:#88CBAE;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Conference**</span> <ins>*2025.12*</ins>: 👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 Two papers are accepted to workshops of **NeurIPS 2025 (GenAI4Health, TS4H)** <span style="color:red">**(One Spotlight)**</span>!
+- <span style="display:inline-block;background:#88CBAE;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Conference**</span> <ins>*2025.08*</ins>: 👋 Attending and presenting at **IJCAI 2025** at Montreal, Canada!
+- <span style="display:inline-block;background:#64AACB;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Preprint**</span> <ins>*2025.08*</ins>: Our paper "*Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes*" is now on [ArXiv](https://arxiv.org/pdf/2506.05386)!
+- 💮<span style="display:inline-block;background:#FFCDD1;color:black;padding:3px 3px;border-radius:5px;font-size:14px;">**Gradudate**</span>💮 <ins>*2025.06*</ins>: 🎓👩🏻‍🎓🎉 **Congrats to myself for successfully defending my PhD thesis** 🥳 !
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2025.05*</ins>: 🎉 One paper is accepted to **JDSA** 2025!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2025.04*</ins>: 🎉 Two papers are accepted to **IJCAI 2025**!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2025.02*</ins>: 🎉 One paper is accepted to **PAKDD 2025**!
+- <span style="display:inline-block;background:#88CBAE;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Conference**</span> <ins>*2024.12*</ins>: 👋 Attending and presenting at **IEEE BigData 2024** at Washington D.C., US!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2024.07*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
+- <span style="display:inline-block;background:#39539D;color:white;padding:3px 3px;border-radius:5px;font-size:14px;">**Accepted**</span> <ins>*2024.06*</ins>: 🎉 One paper is accepted to **ACM TIST** 2024!
 
 
 <hr style="border: 0.1px solid #000;">
 
 
-<h2 id="edu">Education</h2>
+<h2 id="exper">💼 Experience</h2>
+
+<h3>Education</h3>
+
+- **2020.09 - 2025.06** Ph.D. in Computer Science and Information Engineering, National Cheng Kung University
+- **2017.09 - 2019.06** M.S. in Computer Science and Information Engineering, National Cheng Kung University
+- **2013.09 - 2017.06** B.S. in Computer Science and Information Engineering, National Cheng Kung University
 
 
-<hr style="border: 0.1px solid #000;">
+<h3>Work</h3>
 
 
-<h2 id="exper">:school: Experience</h2>
-
+- **National Cheng Kung University**
 - Arizona State University, Aug. 2023 - Jan. 2025
   - Visiting Scholar
   - Worked with [Dr. Huan Liu](https://search.asu.edu/profile/255975)'s [DMML](https://dmml.asu.edu/) lab and research on clinical care, including
@@ -107,4 +112,4 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   - Exchange Student
   - Worked in [Dr. Nei Kato](http://www.it.is.tohoku.ac.jp/~kato/en-index.html)'s laboratory and research on the telecommunications network.
 
-
+<h3>Service</h3>
