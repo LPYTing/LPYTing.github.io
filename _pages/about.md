@@ -101,7 +101,7 @@ Following are some representative works:
   📌<br>
   <ins>*2025.12*</ins> <span class="my-label award">Award</span>
   <div class="news-content">
-    🏆 Our paper "**CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration**" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview] </a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a> is selected as the  **Spotlight Paper** and has also received the  <span style="color:red; font-weight=bold;">Best Paper Award</span> at the Workshop on Learning from Time Series for Health (TS4H) of **NeurIPS 2025** 🎉 ! 
+    🏆 Our paper "<strong>CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration</strong>" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview] </a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a> is selected as the <strong>Spotlight Paper</strong> and has also received the  <span style="color:red; font-weight=bold;">Best Paper Award</span> at the Workshop on Learning from Time Series for Health (TS4H) of <strong>NeurIPS 2025</strong> 🎉 ! 
   <br>&nbsp;&nbsp; ► 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
   </div>
 </div>
@@ -109,7 +109,7 @@ Following are some representative works:
 <div class="news-card" markdown="1">
   <ins>*2025.12*</ins> <span class="my-label conf">**Conference**</span> 
   <div class="news-content">
-    👋 Attending and presenting (workshops) at **NeurIPS 2025** at San Diego, US!
+    👋 Attending and presenting (workshops) at <strong>NeurIPS 2025</strong> at San Diego, US!
   </div>
 </div>
 - <span class="my-label accept">**Accepted**</span> <ins>*2025.10*</ins>: 🎉 One paper is accepted to **IEEE BigData 2025**!
