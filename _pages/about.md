@@ -99,13 +99,13 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   .linkedin-embed {
     padding-top: 10px;
     width: 510px;
-    height: 340px;
+    height: 310px;
     max-width: 100%;
     overflow: hidden;
   }
 
   .linkedin-embed iframe {
-    transform: scale(0.9);
+    transform: scale(0.82);
     transform-origin: top left;
     border: 0;
     height: 360px;
@@ -150,7 +150,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <div class="news-card" markdown="1">
   <ins>*2025.12*</ins> <span class="my-label conf">**Conference**</span> 
   <div class="news-content">
-    👋 Attending and presenting (workshops) at <strong>NeurIPS 2025</strong> at San Diego, US!
+    👋 Attending and presenting two workshop papers at <strong>NeurIPS 2025</strong> at San Diego, US!
   </div>
 </div>
 
@@ -171,7 +171,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <div class="news-card" markdown="1">
   <ins>*2025.08*</ins> <span class="my-label conf">**Conference**</span>
   <div class="news-content">
-    👋 Attending and presenting at <strong>IJCAI 2025</strong> at Montreal, Canada!
+    👋 Attending and presenting two papers at <strong>IJCAI 2025</strong> at Montreal, Canada!
   </div>
   <div class="linkedin-embed">
     <iframe

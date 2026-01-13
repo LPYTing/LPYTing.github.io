@@ -5,16 +5,16 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  All my articles can be found ► <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a> <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a>
+  For a complete list of publications, please see ► <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a> <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a>
 {% endif %}
 
 {% include base_path %}
 
 <h2>Recent Preprints</h2>
 
-- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://arxiv.org/pdf/2506.05386?" target="_blank">[ArXiv]</a><br />
+- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://arxiv.org/abs/2506.05386" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
-- CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
+- CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/abs/2501.16365" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
 
 
@@ -24,23 +24,23 @@ author_profile: true
 
 <h3>2025</h3>
 
-- Towards Hierarchical Multi-Agent Decision-Making for Uncertainty-Aware EV Charging  <a href="https://arxiv.org/pdf/2412.18047" target="_blank">[ArXiv]</a><br />
+- Towards Hierarchical Multi-Agent Decision-Making for Uncertainty-Aware EV Charging  <a href="https://arxiv.org/abs/2412.18047" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Ali Senol, Huan-Yang Wang, Hsu-Chao Lai, Kun-Ta Chuang, Huan Liu<br />
 *The 13th IEEE International Conference on Big Data (IEEE BigData)*, 2025
 
-- CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[PDF]</a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
+- CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2501.16365" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu<br />
 <em>TS4H workshop @ <strong>NeurIPS</strong></em>, 2025, <span style="color:red; font-weight:600;">Best Paper Award</span>
 
-- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://openreview.net/pdf?id=mszIDOG8CX" target="_blank">[PDF]</a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
+- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://openreview.net/pdf?id=mszIDOG8CX" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2506.05386" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu<br />
 <em>GenAI4Health workshop @ <strong>NeurIPS</strong></em>, 2025
 
-- Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System <a href="https://www.ijcai.org/proceedings/2025/1097.pdf" target="_blank">[PDF]</a><br />
+- Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System <a href="https://www.ijcai.org/proceedings/2025/1097.pdf" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2505.01305" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang<br />
 <em>Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (**IJCAI**)</em>, 2025
 
-- DeCo: Defect-Aware Modeling with Contrasting Matching for Optimizing Task Assignment in Online IC Testing <a href="https://www.ijcai.org/proceedings/2025/1042.pdf" target="_blank">[PDF]</a><br />
+- DeCo: Defect-Aware Modeling with Contrasting Matching for Optimizing Task Assignment in Online IC Testing <a href="https://www.ijcai.org/proceedings/2025/1042.pdf" target="_blank">[PDF]</a><a href="https://arxiv.org/abs/2505.00278" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Yu-Hao Chiang, Yi-Tung Tsai, Hsu-Chao Lai, Kun-Ta Chuang<br />
 <em>Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (**IJCAI**)</em>, 2025
 
@@ -73,7 +73,7 @@ Hsu-Chao Lai, Po-Hsiang Fang, Yi-Ting Wu, **Lo Pang-Yun Ting**, Kun-Ta Chuang<br
 
 
 <h3>2022</h3>
-- An incentive dispatch algorithm for utilization-perfect EV charging management<a href="https://link.springer.com/chapter/10.1007/978-3-031-05981-0_11" target="_blank">[PDF]</a><br />
+- An incentive dispatch algorithm for utilization-perfect EV charging management <a href="https://link.springer.com/chapter/10.1007/978-3-031-05981-0_11" target="_blank">[PDF]</a><br />
 **Lo Pang-Yun Ting**, Po-Hui Wu, Hsiu-Ying Chung, Kun-Ta Chuang<br />
 <em>International Journal of Data Science and Analytics (JDSA)</em>, 2022
 
