@@ -37,7 +37,7 @@ I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/mem
 More details about me ▼
 <div style="text-align:center;margin-top:-10px;">
   <a class="navlink" href="#research">Research Interests</a> |
-  <a class="navlink" href="#news">News</a> |
+  <a class="navlink" href="#news">News</a>|
   <a class="navlink" href="#exper">Experiences</a>
   
 </div>
@@ -64,7 +64,227 @@ More details about me ▼
 <h2 id="research">:page_facing_up: Research Interests</h2>
 
 
-My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More details of collaborations can be found in my <a href="https://LPYTing.github.io/files/lpyting_CV.pdf" target="_blank">CV</a>.
+My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my <a href="https://LPYTing.github.io/files/lpyting_CV.pdf" target="_blank">CV</a>.
+
+Recent representative works are below:
+
+
+<!-- publication cand -->
+
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/pub_img/neurips2025_cand.png">
+  </div>
+
+  <div class="pub-body">
+    <div class="pub-title">
+        CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration
+        <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2501.16365" target="_blank">[ArXiv]</a>
+    </div>
+    <div class="pub-author">
+      <u>Lo Pang-Yun Ting</u>, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
+    </div>
+    <div class="pub-venue">TS4H @ NeurIPS 2025 <span class="no-italic">(🏆 Best Paper Award)</span></div>
+
+    <div class="pub-abstract">
+      We propose a Bayes-based representation learning that models how knowledge from one vital sign influences another, enabling precise detection of fine-grained worsening signals for patients.
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-kge">knowledge graph embedding</span>
+      <span class="tag tag-ts">time series analysis</span>
+      <span class="tag tag-h">AI in healthcare</span>
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-keyword">early detection</span>
+      <span class="tag tag-keyword">nuanced illness deterioration</span>
+      <span class="tag tag-keyword">vital sign data</span>
+      <span class="tag tag-keyword">wearable device</span>
+    </div>
+  </div>
+</div>
+
+<!-- publication reinrag -->
+
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/pub_img/neurips2025_reinrag.png">
+  </div>
+
+  <div class="pub-body">
+    <div class="pub-title">
+        Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes
+        <a href="https://openreview.net/pdf?id=mszIDOG8CX" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2506.05386" target="_blank">[ArXiv]</a>
+    </div>
+    <div class="pub-author">
+      <u>Lo Pang-Yun Ting</u>*, Chengshuai Zhao*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
+    </div>
+    <div class="pub-venue">GenAI4Health @ NeurIPS 2025</div>
+
+    <div class="pub-abstract">
+      Presents an RL-driven retriever that evolves with knowledge and guides LLMs on when to take smart leaps, enabling deeper information discovery for clinical note generation.
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-kge">knowledge graph embedding</span>
+      <span class="tag tag-kgr">knowledge graph reasoning</span>
+      <span class="tag tag-rl">reinforcement learning</span>
+      <span class="tag tag-h">AI in healthcare</span>
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-keyword">large language models</span>
+      <span class="tag tag-keyword">retrieval augmented generation</span>
+      <span class="tag tag-keyword">clinical note generation</span>
+      <span class="tag tag-keyword">reasoning path exploration</span>
+    </div>
+  </div>
+</div>
+
+<!-- publication tarl -->
+
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/pub_img/ijcai2025_tarl.png">
+  </div>
+
+  <div class="pub-body">
+    <div class="pub-title">
+        Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System 
+        <a href="https://www.ijcai.org/proceedings/2025/1097.pdf" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2505.01305" target="_blank">[ArXiv]</a>
+    </div>
+    <div class="pub-author">
+      <u>Lo Pang-Yun Ting</u>, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang
+    </div>
+    <div class="pub-venue">IJCAI 2025</div>
+
+    <div class="pub-abstract">
+      Transforms patients’ wearable data into a KG to model intra-vital sign changes and proposes a transition-aware embedding that reinforces relationships among vital sign subsequences and quantifies missing data impacts.
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-kge">knowledge graph embedding</span>
+      <span class="tag tag-ts">time series analysis</span>
+      <span class="tag tag-h">AI in healthcare</span>
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-keyword">early detection</span>
+      <span class="tag tag-keyword">nuanced illness deterioration</span>
+      <span class="tag tag-keyword">vital sign data</span>
+      <span class="tag tag-keyword">wearable device</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- publication deco -->
+
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/pub_img/ijcai2025_deco.png">
+  </div>
+
+  <div class="pub-body">
+    <div class="pub-title">
+        DeCo: Defect-Aware Modeling with Contrasting Matching for Optimizing Task Assignment in Online IC Testing 
+        <a href="https://www.ijcai.org/proceedings/2025/1042.pdf" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2505.00278" target="_blank">[ArXiv]</a>
+    </div>
+    <div class="pub-author">
+      <u>Lo Pang-Yun Ting</u>, Yu-Hao Chiang, Yi-Tung Tsai, Hsu-Chao Lai, Kun-Ta Chuang
+    </div>
+    <div class="pub-venue">IJCAI 2025</div>
+
+    <div class="pub-abstract">
+      Proposes a defect-aware representation learning to model co-failure relationships among IC modules and enables the identification and assignment of capable engineers to handle IC failures.
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-kge">knowledge graph embedding</span>
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-keyword">graph structure modeling</span>
+      <span class="tag tag-keyword">task assignment</span>
+      <span class="tag tag-keyword">ATE logs</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- publication huca -->
+
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/pub_img/bigdata2025_huca.png">
+  </div>
+
+  <div class="pub-body">
+    <div class="pub-title">
+        Towards Hierarchical Multi-Agent Decision-Making for Uncertainty-Aware EV Charging
+        <a href="https://arxiv.org/abs/2412.18047" target="_blank">[ArXiv]</a>
+    </div>
+    <div class="pub-author">
+      <u>Lo Pang-Yun Ting</u>, Ali Senol, Huan-Yang Wang, Hsu-Chao Lai, Kun-Ta Chuang, Huan Liu
+    </div>
+    <div class="pub-venue">IEEE BigData 2025</div>
+
+    <div class="pub-abstract">
+      Designs a hierarchical multi-agent RL structure with an uncertain-aware critic mechanism to control bidirectional energy charging actions and improve the evaluation of power-level decisions under real-world dynamic factors.
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-rl">reinforcement learning</span>
+      <span class="tag tag-ts">time series analysis</span>
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-keyword">hiearachical reinforcement learning</span>
+      <span class="tag tag-keyword">uncertain-aware control</span>
+      <span class="tag tag-keyword">EV bidirectional charging</span>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- publication poskid -->
+
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images/pub_img/tist2024_poskid.png">
+  </div>
+
+  <div class="pub-body">
+    <div class="pub-title">
+        Online Spatial-Temporal EV Charging Scheduling with Incentive Promotion
+        <a href="https://dl.acm.org/doi/full/10.1145/3678180" target="_blank">[PDF]</a>
+    </div>
+    <div class="pub-author">
+      <u>Lo Pang-Yun Ting</u>, Huan-Yang Wang, Jhe-Yun Jhang, Kun-Ta Chuang
+    </div>
+    <div class="pub-venue">ACM TIST 2024</div>
+
+    <div class="pub-abstract">
+      Proposes an online spatio-temporal charging scheduling framework that leverages preference embedding, incentive mechanisms, and explore–exploit strategies to improve user acceptance while minimizing overall charging costs.
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-kge">knowledge graph embedding</span>
+      <span class="tag tag-rl">reinforcement learning</span>
+      <span class="tag tag-ts">time series analysis</span>
+    </div>
+
+    <div class="pub-tags">
+      <span class="tag tag-keyword">spatial-temporal scheduling</span>
+      <span class="tag tag-keyword">online knapsack problem</span>
+      <span class="tag tag-keyword">EV charging control</span>
+    </div>
+  </div>
+</div>
+
+
 
 
 <hr style="border: 0.1px solid #000; margin: 2em 0;">
