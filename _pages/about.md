@@ -117,14 +117,14 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <div class="news-card" markdown="1">
   <ins>*2025.10*</ins> <span class="my-label accept">**Acceptance**</span> 
   <div class="news-content">
-    🎉 One paper is Acceptance to <strong>IEEE BigData 2025</strong>!
+    🎉 One paper is accepted to <strong>IEEE BigData 2025</strong>!
   </div>
 </div>
 
 <div class="news-card" markdown="1">
   <ins>*2025.10*</ins> <span class="my-label accept">**Acceptance**</span>
   <div class="news-content">
-    🎉 Two papers are Acceptance to workshops of <strong>NeurIPS 2025</strong> (GenAI4Health, TS4H) <span style="color:red; font-weight:600;">(One Spotlight)</span>!
+    🎉 Two papers are accepted to workshops of <strong>NeurIPS 2025</strong> (GenAI4Health, TS4H) <span style="color:red; font-weight:600;">(One Spotlight)</span>!
   </div>
 </div>
 
@@ -152,21 +152,21 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <div class="news-card" markdown="1">
   <ins>*2025.05*</ins> <span class="my-label accept">**Acceptance**</span>
   <div class="news-content">
-    🎉 One paper is Acceptance to <strong>JDSA</strong> 2025!
+    🎉 One paper is accepted to <strong>JDSA</strong> 2025!
   </div>
 </div>
 
 <div class="news-card" markdown="1">
   <ins>*2025.04*</ins> <span class="my-label accept">**Acceptance**</span>
   <div class="news-content">
-    🎉 Two papers are Acceptance to <strong>IJCAI 2025</strong>!
+    🎉 Two papers are accepted to <strong>IJCAI 2025</strong>!
   </div>
 </div>
 
 <div class="news-card" markdown="1">
   <ins>*2025.02*</ins> <span class="my-label accept">**Acceptance**</span>
   <div class="news-content">
-    🎉 One paper is Acceptance to <strong>PAKDD 2025</strong>!
+    🎉 One paper is accepted to <strong>PAKDD 2025</strong>!
   </div>
 </div>
 
@@ -180,14 +180,14 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <div class="news-card" markdown="1">
   <ins>*2024.07*</ins> <span class="my-label accept">**Acceptance**</span>
   <div class="news-content">
-    🎉 One paper is Acceptance to <strong>ACM TIST</strong> 2024!
+    🎉 One paper is accepted to <strong>ACM TIST</strong> 2024!
   </div>
 </div>
 
 <div class="news-card" markdown="1">
   <ins>*2024.06*</ins> <span class="my-label accept">**Acceptance**</span>
   <div class="news-content">
-    🎉 One paper is Acceptance to <strong>ACM TIST</strong> 2024!
+    🎉 One paper is accepted to <strong>ACM TIST</strong> 2024!
   </div>
 </div>
 
