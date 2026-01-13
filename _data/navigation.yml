@@ -8,11 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About Me"
+  - title: "ABOUT"
     url: https://lpyting.github.io
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /my-publications/
-  - title: "Lab"
+  - title: "LAB"
     url: https://lpyting.github.io
     
   # - title: "CV"

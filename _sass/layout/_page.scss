@@ -34,6 +34,16 @@
   }
 }
 
+@media (min-width: 57.8125em) and (max-width: 80em) {
+  .page {
+    width: 82%;
+    padding-left: 16.9%;
+    padding-right: 8.4%;
+    float: right;
+    margin-right: 0; 
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
