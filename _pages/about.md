@@ -97,17 +97,19 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   }
 
   .linkedin-embed {
-    width: 520px;
+    padding-top: 10px;
+    width: 510px;
+    height: 340px;
     max-width: 100%;
     overflow: hidden;
   }
 
   .linkedin-embed iframe {
-    width: 520px;
-    /* height: 720px;  */
-    transform: scale(0.85);
+    transform: scale(0.9);
     transform-origin: top left;
     border: 0;
+    height: 360px;
+    width: 504px;
   }
 
   @media (max-width: 600px) {
@@ -125,13 +127,11 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   <ins>*2025.12*</ins> <span class="my-label award">Award</span>
   <div class="news-content">
     🏆 Our paper "<strong>CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration</strong>" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview] </a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a> is selected as the <strong>Spotlight Paper</strong> and has also received the  <span style="color:red; font-weight:600;">Best Paper Award</span> at the Workshop on Learning from Time Series for Health (TS4H) of <strong>NeurIPS 2025</strong> 🎉 ! 
-  <br>&nbsp;&nbsp; ► 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
+  <!-- <br>&nbsp;&nbsp; ► 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a> -->
   </div>
   <div class="linkedin-embed">
     <iframe
-      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7404001740431228928"
-      height="300"
-      width="504"
+      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7404001740431228928?collapsed=1"
       frameborder="0"
       allowfullscreen=""
       title="Embedded post">
@@ -173,12 +173,31 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   <div class="news-content">
     👋 Attending and presenting at <strong>IJCAI 2025</strong> at Montreal, Canada!
   </div>
+  <div class="linkedin-embed">
+    <iframe
+      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7369172615845900289?collapsed=1"
+      frameborder="0"
+      allowfullscreen=""
+      title="Embedded post">
+    </iframe>
+  </div>
 </div>
 
 <div class="news-card" markdown="1">
   <ins>*2025.08*</ins> <span class="my-label preprint">**Preprint**</span>
   <div class="news-content">
     Our paper "<em>Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes</em>" is now on <a href="https://arxiv.org/pdf/2506.05386" target="_blank">ArXiv!</a>
+    <!-- <br>&nbsp;&nbsp; ► 📰 <a href="https://www.linkedin.com/posts/lo-pang-yun-ting-teila-5a7ab2144_neurips2025-neurips2025-ts4h-activity-7404001740431228928-kbpD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACMLw88BZO0KniN8uHZr-u1kOwq3_Xycshg" target="_blank">[LinkedIn Post]</a> -->
+  </div>
+
+  <div class="linkedin-embed">
+    <!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7360023309503131648?collapsed=1" height="551" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
+    <iframe
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7360023309503131648?collapsed=1"
+      frameborder="0"
+      allowfullscreen=""
+      title="Embedded post">
+    </iframe>
   </div>
 </div>
 
