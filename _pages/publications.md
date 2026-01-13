@@ -30,11 +30,11 @@ author_profile: true
 
 - CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[PDF]</a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu<br />
-<em>TS4H workshop @ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</em>, 2025, <span style="color:red; font-weight:600;">Best Paper Award</span>
+<em>TS4H workshop @ <strong>NeurIPS</strong></em>, 2025, <span style="color:red; font-weight:600;">Best Paper Award</span>
 
 - Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://openreview.net/pdf?id=mszIDOG8CX" target="_blank">[PDF]</a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a><br />
 **Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu<br />
-<em>GenAI4Health workshop @ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</em>, 2025
+<em>GenAI4Health workshop @ <strong>NeurIPS</strong></em>, 2025
 
 - Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System <a href="https://www.ijcai.org/proceedings/2025/1097.pdf" target="_blank">[PDF]</a><br />
 **Lo Pang-Yun Ting**, Hong-Pei Chen, An-Shan Liu, Chun-Yin Yeh, Po-Lin Chen, Kun-Ta Chuang<br />
@@ -86,7 +86,7 @@ Hsu-Chao Lai, Po-Hsiang Fang, Yi-Ting Wu, **Lo Pang-Yun Ting**, Kun-Ta Chuang<br
 
 - Learning personal conscientiousness from footprints in E-learning systems <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338404" target="_blank">[PDF]</a><br />
 **Lo Pang-Yun Ting**, Shan-Yun Teng, Kun-Ta Chuang, Ee-Peng Lim<br />
-<em>20th IEEE International Conference on Data Mining</em> (**ICDM**), 2020
+<em>20th **IEEE ICDM**</em>, 2020
 
 - Learning latent perception graphs for personalized unknowns recommendation <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319281" target="_blank">[PDF]</a><br />
 **Lo Pang-Yun Ting**, Shan-Yun Teng, Suhang Wang, Kun-Ta Chuang, Huan Liu<br />
@@ -107,7 +107,7 @@ Shan-Yun Teng, **Lo Pang-Yun Ting**, Mi-Yen Yeh, Kun-Ta Chuang<br />
 
 - Interactive unknowns recommendation in e-learning systems <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594874" target="_blank">[PDF]</a><br />
 Shan-Yun Teng, Jundong Li, **Lo Pang-Yun Ting**, Kun-Ta Chuang, Huan Liu<br />
-<em>18th IEEE International Conference on Data Mining</em> (**ICDM**), 2018
+<em>18th **IEEE ICDM**</em>, 2018
 
 - Predictive team formation analysis via feature representation learning on social networks <a href="https://link.springer.com/chapter/10.1007/978-3-319-93040-4_62" target="_blank">[PDF]</a><br />
 **Lo Pang-Yun Ting**, Cheng-Te Li, Kun-Ta Chuang<br />

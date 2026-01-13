@@ -96,7 +96,29 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
     margin-top: -15px;
   }
 
+  .linkedin-embed {
+    width: 520px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .linkedin-embed iframe {
+    width: 520px;
+    /* height: 720px;  */
+    transform: scale(0.85);
+    transform-origin: top left;
+    border: 0;
+  }
+
+  @media (max-width: 600px) {
+    .linkedin-embed iframe {
+      transform: scale(0.75);
+    }
+  }
+
 </style>
+
+
 
 <div class="news-card" markdown="1">
   📌<br>
@@ -105,6 +127,17 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
     🏆 Our paper "<strong>CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration</strong>" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview] </a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a> is selected as the <strong>Spotlight Paper</strong> and has also received the  <span style="color:red; font-weight:600;">Best Paper Award</span> at the Workshop on Learning from Time Series for Health (TS4H) of <strong>NeurIPS 2025</strong> 🎉 ! 
   <br>&nbsp;&nbsp; ► 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a>
   </div>
+  <div class="linkedin-embed">
+    <iframe
+      src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7404001740431228928"
+      height="300"
+      width="504"
+      frameborder="0"
+      allowfullscreen=""
+      title="Embedded post">
+    </iframe>
+  </div>
+
 </div>
 
 <div class="news-card" markdown="1">
@@ -225,9 +258,20 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   <br><a href="http://www.it.is.tohoku.ac.jp/en/" target="_blank">Kato Laboratory</a>, led by <a href="http://www.it.is.tohoku.ac.jp/~kato/en-index.html" target="_blank">Prof. Nei Kato</a>
 
 
-<h3>Service</h3>
+<h3>Service & Talks</h3>
 
 - **Program Committee (PC) Member / Reviewer**
-  <br>ACM KDD (2025, 2026), WWW (2026), NeurIPS (2025), CIKM (2025), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
+<br>ACM KDD (2025, 2026), WWW (2026), NeurIPS (2025), CIKM (2025), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
+
+
+- **Lectures & Invited Talks**
+  - From Single-Agent Optimization to Multi-Agent Coordination: A Perspective on Reinforced Control for EV Charging Systems
+  <br>TSMC, AI4BI Technical Seminar (2025)
+  - Workshops of Big Data Analysis
+  <br>Information Technology Curriculum Center (<a href="https://www.youtube.com/@%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%AD%B8%E7%A7%91%E4%B8%AD%E5%BF%83" target="_blank">資訊科技學科中心)</a> (2021, 2022)
+  - Deep Learning Foundations
+  <br>NCKU, Data Science and Artificial Intelligence Course (2021, 2022)
+  - Introduction to Monte Carlo Methods
+  <br>NCKU, Artificial Intelligence Camp (2018)
 
 
