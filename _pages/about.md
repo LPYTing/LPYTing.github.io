@@ -228,6 +228,6 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <h3>Service</h3>
 
 - **Program Committee (PC) Member / Reviewer**
-  <br>ACM KDD (2025, 2026), WWW (2026), NeurIPS (2025), CIKM (2025), PAKDD (2026), ASONAM (2024), ACM TIST
+  <br>ACM KDD (2025, 2026), WWW (2026), NeurIPS (2025), CIKM (2025), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
 
 
