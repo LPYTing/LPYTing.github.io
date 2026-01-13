@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 
+
+<div class="page__customize_topic">About</div>
+
 I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a> (former National Chiao-Tung University), starting in Feb. 2026.
 <br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from National Cheng Kung University (NCKU) in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
 
@@ -126,7 +129,7 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
   📌<br>
   <ins>*2025.12*</ins> <span class="my-label award">Award</span>
   <div class="news-content">
-    🏆 Our paper "<strong>CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration</strong>" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[OpenReview] </a> <a href="https://arxiv.org/pdf/2501.16365" target="_blank">[ArXiv]</a> is selected as the <strong>Spotlight Paper</strong> and has also received the  <span style="color:red; font-weight:600;">Best Paper Award</span> at the Workshop on Learning from Time Series for Health (TS4H) of <strong>NeurIPS 2025</strong> 🎉 ! 
+    🏆 Our paper "<strong>CAND: Cross-Sign Ambiguity Inference for Early Detecting Nuanced Illness Deterioration</strong>" <a href="https://openreview.net/pdf?id=S3UWgt7iLJ" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2501.16365" target="_blank">[ArXiv]</a> is selected as the <strong>Spotlight Paper</strong> and has also received the  <span style="color:red; font-weight:600;">Best Paper Award</span> at the Workshop on Learning from Time Series for Health (TS4H) of <strong>NeurIPS 2025</strong> 🎉 ! 
   <!-- <br>&nbsp;&nbsp; ► 📰 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404001740431228928/" target="_blank">[LinkedIn Post]</a> -->
   </div>
   <div class="linkedin-embed">

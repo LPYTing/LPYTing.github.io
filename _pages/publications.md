@@ -4,6 +4,8 @@ permalink: /my-publications/
 author_profile: true
 ---
 
+<div class="page__customize_topic">Publications</div>
+
 {% if site.author.googlescholar %}
   For a complete list of publications, please see ► <a href="https://dblp.org/pid/221/2917.html" target="_blank">[DBLP]</a> <a href="{{site.author.googlescholar}}" target="_blank">[Google Scholar]</a>
 {% endif %}
