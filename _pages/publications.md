@@ -75,8 +75,8 @@ Hsu-Chao Lai, Po-Hsiang Fang, Yi-Ting Wu, **Lo Pang-Yun Ting**, Kun-Ta Chuang<br
 
 
 <h3>2022</h3>
-- An incentive dispatch algorithm for utilization-perfect EV charging management <a href="https://link.springer.com/chapter/10.1007/978-3-031-05981-0_11" target="_blank">[PDF]</a><br />
-**Lo Pang-Yun Ting**, Po-Hui Wu, Hsiu-Ying Chung, Kun-Ta Chuang<br />
+- Interactive planning of revisiting-free itinerary for signed-for delivery <a href="https://link.springer.com/article/10.1007/s41060-022-00333-0" target="_blank">[PDF]</a><br />
+**Lo Pang-Yun Ting**, Shan-Yun Teng, Szu-Chan Wu, Kun-Ta Chuang<br />
 <em>International Journal of Data Science and Analytics (JDSA)</em>, 2022
 
 - An incentive dispatch algorithm for utilization-perfect EV charging management <a href="https://link.springer.com/chapter/10.1007/978-3-031-05981-0_11" target="_blank">[PDF]</a><br />
