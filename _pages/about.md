@@ -143,6 +143,13 @@ My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge 
 <div class="news-card" markdown="1">
   <ins>*2025.12*</ins> <span class="my-label conf">**Conference**</span> 
   <div class="news-content">
+    👋 Attending (virtually) and presenting at <strong>IEEE BigData 2025</strong>!
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2025.12*</ins> <span class="my-label conf">**Conference**</span> 
+  <div class="news-content">
     👋 Attending and presenting (workshops) at <strong>NeurIPS 2025</strong> at San Diego, US!
   </div>
 </div>
