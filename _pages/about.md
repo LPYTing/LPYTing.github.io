@@ -11,8 +11,8 @@ redirect_from:
 
 <div class="page__customize_topic">About</div>
 
-I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a> (former National Chiao-Tung University), starting in Feb. 2026.
-<br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from National Cheng Kung University (NCKU) in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
+I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a>, starting in Feb. 2026.
+<br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from <a href="https://web.ncku.edu.tw/" target="_blank">National Cheng Kung University (NCKU)</a> in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
 
 <style>
   html { scroll-behavior: smooth; }
@@ -502,7 +502,7 @@ Recent representative works are below:
   <br><a href="https://scai.engineering.asu.edu/" target="_blank">School of Computing and Augmented Intelligence</a>, <a href="https://www.asu.edu/" target="_blank">Arizona State University</a> (➤ *Tempe, Arizona, United States*)
   <br><a href="https://dmml.asu.edu/" target="_blank">Data Mining and Machine Learning Lab (DMML)</a>, led by <a href="https://search.asu.edu/profile/255975" target="_blank">Prof. Huan Liu</a>
 
-- <span style="display:inline-block;">**2019.10 - 2020.08**</span>  <span style="display:inline-block;">Exchange Student</span>
+- <span style="display:inline-block;">**2019.10 - 2020.09**</span>  <span style="display:inline-block;">Exchange Student</span>
   <br><a href="https://www.is.tohoku.ac.jp/en/" target="_blank">Graduate School of Information Sciences</a>, <a href="https://www.tohoku.ac.jp/en/" target="_blank">Tohoku University</a> (➤ *Sendai, Miyagi, Japan*)
   <br><a href="http://www.it.is.tohoku.ac.jp/en/" target="_blank">Kato Laboratory</a>, led by <a href="http://www.it.is.tohoku.ac.jp/~kato/en-index.html" target="_blank">Prof. Nei Kato</a>
 
@@ -524,3 +524,11 @@ Recent representative works are below:
   <br>NCKU, Artificial Intelligence Camp (2018)
 
 
+<h3>Honors & Programs</h3>
+
+  - Best Paper Award, TS4H workshop @ NeurIPS 2025
+  - Honorary Membership, The Phi Tau Phi Scholastic Honor Society, 2025
+  - Graduate Student Study Abroad Program, Ministry of Science and Technology (MOST), 2023
+  - Oustanding Award, Grand Review and Competition for PhD Student and Postdoctoral Research Fellow Research (NCKU), 2022
+  - Honorary Membership, The Phi Tau Phi Scholastic Honor Society, 2020
+  - Cooperative Laboratory Study Program (COLABS), Tohoku University, 2019
