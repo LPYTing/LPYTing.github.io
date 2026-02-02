@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="page__customize_topic">About</div>
 
-I am an **Incoming Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a>, starting in Feb. 2026.
+I am an **Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a>, starting in Feb. 2026.
 <br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from <a href="https://web.ncku.edu.tw/" target="_blank">National Cheng Kung University (NCKU)</a> in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
 
 <style>
