@@ -364,6 +364,14 @@ Recent representative works are below:
 </div>
 
 <div class="news-card" markdown="1">
+  <ins>*2026.02*</ins> <span class="my-label accept">**Acceptance**</span> 
+  <div class="news-content">
+    🎉 One paper is accepted to <strong>PAKDD 2026</strong>!
+  </div>
+</div>
+
+
+<div class="news-card" markdown="1">
   <ins>*2025.12*</ins> <span class="my-label conf">**Conference**</span> 
   <div class="news-content">
     👋 Attending (virtually) and presenting at <strong>IEEE BigData 2025</strong>!

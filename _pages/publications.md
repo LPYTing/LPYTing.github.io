@@ -24,6 +24,12 @@ author_profile: true
 
 <h2>Selected Papers</h2>
 
+<h3>2026</h3>
+
+- MetaGD-CAN: A Hybrid Generative–Discriminative Method for Cancer Detection in EHR Data<br />
+Yu-Hsiang Chang, Wei-Chun Tsai,  **Lo Pang-Yun Ting**, Kun-Ta Chuang<br />
+<em>The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2026 
+
 <h3>2025</h3>
 
 - Towards Hierarchical Multi-Agent Decision-Making for Uncertainty-Aware EV Charging  <a href="https://arxiv.org/abs/2412.18047" target="_blank">[ArXiv]</a><br />
