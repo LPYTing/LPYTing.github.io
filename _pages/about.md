@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="page__customize_topic">About</div>
 
-I am an **Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/_331" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a>, starting in Feb. 2026.
+I am an **Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/lpyting" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a>, starting in Feb. 2026.
 <br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from <a href="https://web.ncku.edu.tw/" target="_blank">National Cheng Kung University (NCKU)</a> in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
 
 <style>
@@ -518,10 +518,13 @@ Recent representative works are below:
 <h3>Service & Talks</h3>
 
 - **Program Committee (PC) Member / Reviewer**
-<br>ACM KDD (2025 Cycle 1&2, 2026 Cycle 1&2), WWW (2026), NeurIPS (2025), CIKM (2025), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
-
-
+<br>ACM KDD (2025 Cycle 1&2, 2026 Cycle 1&2), WWW (2026), ICML (2026), NeurIPS (2025), CIKM (2025), IEEE BigData (2026), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
+ 
 - **Lectures & Invited Talks**
+  - Enhanced Knowledge Representation for Decision Intelligence in Smart Cities and Healthcare
+  <br>National Central University, Dept. of Computer Science & Information Engineering (Apr. 2026) 
+  - Reinforced Knowledge Representation: Cross-Domain Decision Intelligence
+  <br>NYCU, Dept. of Electronics and Electrical Engineering (Apr. 2026) 
   - From Single-Agent Optimization to Multi-Agent Coordination: A Perspective on Reinforced Control for EV Charging Systems
   <br>TSMC, AI4BI Technical Seminar (2025)
   - Workshops of Big Data Analysis
