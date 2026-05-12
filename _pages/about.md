@@ -518,7 +518,7 @@ Recent representative works are below:
 <h3>Service & Talks</h3>
 
 - **Program Committee (PC) Member / Reviewer**
-<br>ACM KDD (2025 Cycle 1&2, 2026 Cycle 1&2), WWW (2026), ICML (2026), NeurIPS (2025), CIKM (2025), IEEE BigData (2026), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
+<br>ACM KDD (2025 Cycle 1&2, 2026 Cycle 1&2), WWW (2026), ICML (2026), NeurIPS (2026, 2025), CIKM (2025), IEEE BigData (2026), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
  
 - **Lectures & Invited Talks**
   - Enhanced Knowledge Representation for Decision Intelligence in Smart Cities and Healthcare
