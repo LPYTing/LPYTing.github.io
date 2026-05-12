@@ -530,7 +530,7 @@ Recent representative works are below:
   - From Single-Agent Optimization to Multi-Agent Coordination: A Perspective on Reinforced Control for EV Charging Systems
   <br>TSMC, AI4BI Technical Seminar (2025)
   - Workshops of Big Data Analysis
-  <br>Information Technology Curriculum Center</a> (2021, 2022)
+  <br>Information Technology Curriculum Center (2021, 2022)
   - Deep Learning Foundations
   <br>NCKU, Data Science and Artificial Intelligence Course (2021, 2022)
   - Introduction to Monte Carlo Methods
