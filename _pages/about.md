@@ -525,10 +525,12 @@ Recent representative works are below:
   <br>National Central University, Dept. of Computer Science & Information Engineering (Apr. 2026) 
   - Reinforced Knowledge Representation: Cross-Domain Decision Intelligence
   <br>NYCU, Dept. of Electronics and Electrical Engineering (Apr. 2026) 
+  - The Power of Data (資料的影響力：當大數據改變數位生態)
+  <br> Taichung Municipal Taichung First Senior High School (May 2026)
   - From Single-Agent Optimization to Multi-Agent Coordination: A Perspective on Reinforced Control for EV Charging Systems
   <br>TSMC, AI4BI Technical Seminar (2025)
   - Workshops of Big Data Analysis
-  <br>Information Technology Curriculum Center (<a href="https://www.youtube.com/@%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%AD%B8%E7%A7%91%E4%B8%AD%E5%BF%83" target="_blank">資訊科技學科中心)</a> (2021, 2022)
+  <br>Information Technology Curriculum Center</a> (2021, 2022)
   - Deep Learning Foundations
   <br>NCKU, Data Science and Artificial Intelligence Course (2021, 2022)
   - Introduction to Monte Carlo Methods
