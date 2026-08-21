@@ -12,7 +12,11 @@ redirect_from:
 <div class="page__customize_topic">About</div>
 
 I am an **Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/lpyting" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a>, starting in Feb. 2026.
-<br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from <a href="https://web.ncku.edu.tw/" target="_blank">National Cheng Kung University (NCKU)</a> in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>.
+<br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from <a href="https://web.ncku.edu.tw/" target="_blank">National Cheng Kung University (NCKU)</a> in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>. My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. 
+
+During my PhD, I joined <a href="https://search.asu.edu/profile/255975" target="_blank">Prof. Huan Liu</a>'s <a href="https://dmml.asu.edu/" target="_blank">DMML Lab</a> as a visiting scholar from 2023 to 2025. Also, I have collaborated with organizations in Taiwan and Japan across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my <a href="https://LPYTing.github.io/files/lpyting_CV.pdf" target="_blank">CV</a>.
+
+I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Yushan Young Fellow Program (教育部玉山青年學者)</a> (2026) and <a href="https://timeseries4health.github.io/" target="_blank">TS4H workshop @ NeurIPS 2025</a> Best Paper Award (2025).
 
 <style>
   html { scroll-behavior: smooth; }
@@ -34,9 +38,9 @@ I am an **Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/deta
   }
 </style>
 
-More details about me ▼
+
 <div style="text-align:center;margin-top:-10px;">
-  <a class="navlink" href="#research">Research Interests</a> |
+  <a class="navlink" href="#research">Representative Works</a> |
   <a class="navlink" href="#news">News</a>|
   <a class="navlink" href="#exper">Experiences</a>
   
@@ -61,12 +65,7 @@ More details about me ▼
 
 <hr style="border: 0.1px solid #000; margin: 2em 0;">
 
-<h2 id="research">:page_facing_up: Research Interests</h2>
-
-
-My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. I have collaborated with organizations across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my <a href="https://LPYTing.github.io/files/lpyting_CV.pdf" target="_blank">CV</a>.
-
-Recent representative works are below:
+<h2 id="research">:page_facing_up: Representative Works</h2>
 
 
 <!-- publication cand -->
@@ -361,6 +360,15 @@ Recent representative works are below:
     </iframe>
   </div>
 
+</div>
+
+
+
+<div class="news-card" markdown="1">
+  <ins>*2026.07*</ins> <span class="my-label accept">**Acceptance**</span> 
+  <div class="news-content">
+    🎉 One paper is accepted to <strong>SDM 2026</strong>!
+  </div>
 </div>
 
 <div class="news-card" markdown="1">
