@@ -4,7 +4,7 @@ permalink: /my-teaching/
 author_profile: true
 ---
 
-<div class="page__customize_topic">Teaching at NCYU</div>
+<div class="page__customize_topic">Teaching at NYCU</div>
 <br/>
 
 - **CSDS30002**: Big Data Analytics Techniques and Applications (巨量資料分析技術與應用), Fall 2026
