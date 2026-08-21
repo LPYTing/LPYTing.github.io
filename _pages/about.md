@@ -342,6 +342,13 @@ I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Y
 
 </style>
 
+<div class="news-card" markdown="1">
+  📌<br>
+  <ins>*2026.07*</ins> <span class="my-label award">Award</span>
+  <div class="news-content">
+    🏆 Recieved the <strong>Yushan Young Fellow Program (教育部玉山青年學者)</strong> 🎉 ! 
+  </div>
+</div>
 
 
 <div class="news-card" markdown="1">
@@ -523,30 +530,8 @@ I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Y
   <br><a href="http://www.it.is.tohoku.ac.jp/en/" target="_blank">Kato Laboratory</a>, led by <a href="http://www.it.is.tohoku.ac.jp/~kato/en-index.html" target="_blank">Prof. Nei Kato</a>
 
 
-<h3>Service & Talks</h3>
-
-- **Program Committee (PC) Member / Reviewer**
-<br>ACM KDD (2025 Cycle 1&2, 2026 Cycle 1&2), WWW (2026), ICML (2026), NeurIPS (2026, 2025), CIKM (2025), IEEE BigData (2026), PAKDD (2026), SDM, AAAI, IEEE ICDM, KAIS, TKDE, TKDD, ACM TIST
- 
-- **Lectures & Invited Talks**
-  - Enhanced Knowledge Representation for Decision Intelligence in Smart Cities and Healthcare
-  <br>National Central University, Dept. of Computer Science & Information Engineering (Apr. 2026) 
-  - Reinforced Knowledge Representation: Cross-Domain Decision Intelligence
-  <br>NYCU, Dept. of Electronics and Electrical Engineering (Apr. 2026) 
-  - The Power of Data (資料的影響力：當大數據改變數位生態)
-  <br> Taichung Municipal Taichung First Senior High School (May 2026)
-  - From Single-Agent Optimization to Multi-Agent Coordination: A Perspective on Reinforced Control for EV Charging Systems
-  <br>TSMC, AI4BI Technical Seminar (2025)
-  - Workshops of Big Data Analysis
-  <br>Information Technology Curriculum Center (2021, 2022)
-  - Deep Learning Foundations
-  <br>NCKU, Data Science and Artificial Intelligence Course (2021, 2022)
-  - Introduction to Monte Carlo Methods
-  <br>NCKU, Artificial Intelligence Camp (2018)
-
-
 <h3>Honors & Programs</h3>
-
+  - Yushan Young Fellow Program (玉山青年學者), Ministry of Education, 2026
   - Best Paper Award, TS4H workshop @ NeurIPS 2025
   - Honorary Membership, The Phi Tau Phi Scholastic Honor Society, 2025
   - Graduate Student Study Abroad Program, Ministry of Science and Technology (MOST), 2023

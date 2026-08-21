@@ -26,8 +26,13 @@ author_profile: true
 
 <h3>2026</h3>
 
+- REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading<br />
+YChengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, **Lo Pang-Yun Ting**, Ying-Chih Chen, Huan Liu <a href="https://arxiv.org/pdf/2605.27402" target="_blank">[ArXiv]</a><br/>
+<em>SIAM International Conference on Data Mining (<strong>SDM</strong>), 2026</em><br/>
+<em>AI4Good @ <strong>ICML</strong>, 2026</em>
+
 - MetaGD-CAN: A Hybrid Generative–Discriminative Method for Cancer Detection in EHR Data<br />
-Yu-Hsiang Chang, Wei-Chun Tsai,  **Lo Pang-Yun Ting**, Kun-Ta Chuang<br />
+Yu-Hsiang Chang, Wei-Chun Tsai,  **Lo Pang-Yun Ting**, Kun-Ta Chuang <a href="https://link.springer.com/chapter/10.1007/978-981-92-1465-5_22" target="_blank">[PDF]</a><br/>
 <em>The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</em>, 2026 
 
 <h3>2025</h3>
