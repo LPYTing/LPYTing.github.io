@@ -16,35 +16,7 @@ I am an **Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/deta
 
 During my PhD, I joined <a href="https://search.asu.edu/profile/255975" target="_blank">Prof. Huan Liu</a>'s <a href="https://dmml.asu.edu/" target="_blank">DMML Lab</a> as a visiting scholar from 2023 to 2025. Also, I have collaborated with organizations in Taiwan and Japan across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my <a href="https://LPYTing.github.io/files/lpyting_CV.pdf" target="_blank">CV</a>.
 
-
-
-<div style="margin-top: 12px; margin-bottom: 8px;">
-  <span style="
-    display: inline-block;
-    background: #666;
-    color: white;
-    padding: 4px 10px;
-    border-radius: 5px;
-    font-size: 15px;
-    font-weight: 600;
-  ">
-    Selected Honors & Awards
-  </span>
-</div>
-
-<ul style="margin-top: 8px;">
-  <li>
-    <a href="https://search.asu.edu/profile/255975" target="_blank">
-      Yushan Young Fellow Program (教育部玉山青年學者) (2026)
-    </a>
-  </li>
-  <li>
-    Best Paper Award,
-    <a href="https://timeseries4health.github.io/" target="_blank">
-      TS4H Workshop @ NeurIPS 2025
-    </a>
-  </li>
-</ul>
+I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Yushan Young Fellow Program (教育部玉山青年學者)</a> (2026) and Best Paper Award at <a href="https://timeseries4health.github.io/" target="_blank"> TS4H Workshop @ NeurIPS 2025</a>.
 
 
 <style>
