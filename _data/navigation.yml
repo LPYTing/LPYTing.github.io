@@ -16,6 +16,8 @@ main:
     url: /my-service/
   - title: "TEACHING"
     url: /my-teaching/
+  - title: "KIR LAB"
+    url: https://nycu-kirlab.github.io/
     
   # - title: "CV"
   #   url: https://LPYTing.github.io/files/lpyting_CV.pdf

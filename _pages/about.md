@@ -12,11 +12,40 @@ redirect_from:
 <div class="page__customize_topic">About</div>
 
 I am an **Assistant Professor** <a href="https://www.cs.nycu.edu.tw/members/detail/lpyting" target="_blank">(Website)</a> in the <a href="https://www.cs.nycu.edu.tw/" target="_blank">Department of Computer Science</a> at <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University (NYCU)</a>, starting in Feb. 2026.
-<br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from <a href="https://web.ncku.edu.tw/" target="_blank">National Cheng Kung University (NCKU)</a> in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>. My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Embedding/Reasoning**, **Artificial Intelligence in Healthcare**, and **Time Series Analysis**. 
+<br>I received my PhD degree in <a href="https://www.csie.ncku.edu.tw/en/" target="_blank">Computer Science and Information Engineering</a> from <a href="https://web.ncku.edu.tw/" target="_blank">National Cheng Kung University (NCKU)</a> in 2025, advised by <a href="https://researchoutput.ncku.edu.tw/en/persons/kun-ta-chuang" target="_blank">Prof. Kun-Ta Chuang</a> in the <a href="https://netdb.csie.ncku.edu.tw/" target="_blank">NetDB Lab</a>. My research focuses on **Data Mining**, **Reinforcement Learning**, **Knowledge Graph Reasoning**, **Smart Cities**, **AI in Healthcare**, and **Time Series Analysis**. 
 
 During my PhD, I joined <a href="https://search.asu.edu/profile/255975" target="_blank">Prof. Huan Liu</a>'s <a href="https://dmml.asu.edu/" target="_blank">DMML Lab</a> as a visiting scholar from 2023 to 2025. Also, I have collaborated with organizations in Taiwan and Japan across healthcare, smart energy, integrated circuits, education, etc. More details can be found in my <a href="https://LPYTing.github.io/files/lpyting_CV.pdf" target="_blank">CV</a>.
 
-I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Yushan Young Fellow Program (教育部玉山青年學者)</a> (2026) and <a href="https://timeseries4health.github.io/" target="_blank">TS4H workshop @ NeurIPS 2025</a> Best Paper Award (2025).
+
+
+<div style="margin-top: 12px; margin-bottom: 8px;">
+  <span style="
+    display: inline-block;
+    background: #666;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 600;
+  ">
+    Selected Honors & Awards
+  </span>
+</div>
+
+<ul style="margin-top: 8px;">
+  <li>
+    <a href="https://search.asu.edu/profile/255975" target="_blank">
+      Yushan Young Fellow Program (教育部玉山青年學者) (2026)
+    </a>
+  </li>
+  <li>
+    Best Paper Award,
+    <a href="https://timeseries4health.github.io/" target="_blank">
+      TS4H Workshop @ NeurIPS 2025
+    </a>
+  </li>
+</ul>
+
 
 <style>
   html { scroll-behavior: smooth; }
@@ -39,8 +68,12 @@ I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Y
 </style>
 
 
-<div style="text-align:center;margin-top:-10px;">
-  <a class="navlink" href="#research">Representative Works</a> |
+<div style="
+  text-align: center;
+  margin-top: 20px;
+">
+  <a class="navlink" href="#area">Research Area</a> |
+  <a class="navlink" href="#work">Representative Works</a> |
   <a class="navlink" href="#news">News</a>|
   <a class="navlink" href="#exper">Experiences</a>
   
@@ -58,14 +91,37 @@ I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Y
   font-weight:300;
   white-space:normal;
 ">
-📢 <span style="display:inline-block;color:red;font-weight:600;">[Recruiting]</span> I am actively seeking motivated undergraduate / Master / Ph.D. students to join our lab. If you are passionate in learning the skills of Data Mining / AI / Data Science / Reinforcement Learning, or interested in AI for Healthcare, Time Series Analysis, LLM Reasoning, Social Network, Recommender Systems and Smart City, please feel free to email me your CV/resume and discuss the possibility of joining us.<br><br>
-<span style="display:inline-block;background:dimgray;color:white;padding:3px 3px;border-radius:5px;font-size:14px;font-weight:500;">**NOTICE**</span> If you are applying for a Master's degree, please apply to the <ins>Institute of Computer Science and Engineering (資訊工程所甲組)</ins> or <ins>Data Science and Engieering (數據科學與工程研究所) programs</ins>. After you receive an offer of admission, please feel free to reach out!
+📢 <span style="display:inline-block;color:red;font-weight:600;">[Recruiting]</span> We are actively seeking motivated undergraduate / Master / Ph.D. students to join our lab. If you are passionate in learning the skills of Data Mining / Explainable AI, or interested in any of the research topics listed below, please feel free to email me your **CV/resume** and discuss the possibility of joining us.<br><br>
+<span style="display:inline-block;background:dimgray;color:white;padding:3px 3px;border-radius:5px;font-size:14px;font-weight:500;">**NOTICE**</span> If you are applying for a Master's degree, please apply to the <ins>Institute of Computer Science and Engineering (資訊工程所甲組)</ins> or <ins>Data Science and Engieering (數據科學與工程研究所) programs</ins> and reach out after getting acceptance.
 </span>
 
 
 <hr style="border: 0.1px solid #000; margin: 2em 0;">
 
-<h2 id="research">:page_facing_up: Representative Works</h2>
+
+<h2 id="work">:page_facing_up: Research Area</h2>
+
+Our lab explores three interconnected research directions, unified by the goal of developing AI systems that can **reason effectively**, adapt to **dynamic environments**, and solve **real-world challenges**. 
+
+<h3>🧠 Reasoning & Explainable AI</h3>
+  - Knowledge Graph Embeddings & Reasoning · LLM Reasoning · GraphRAG · Concept Bottleneck Models
+  - Model Explainability & Interpretability 
+
+<h3>🌍 World Models & Reinforcement Learning</h3>
+
+  - Multi-domain & Multi-modal World Modeling
+  - Applied Reinforcement Learning · RL-Enhanced LLMs
+
+<h3>🏙️ AI for Real-World Systems</h3>
+
+  - Smart Cities: Time-Series Modeling · Intelligent Control 
+  - AI for Healthcare: Clinical NLP · Graph-based EHR Analysis · Early Warning System
+  - Real-Time AI: Small Language Models · Dynamic Graph Modeling · Multi-Agent RL Control
+
+<hr style="border: 0.1px solid #000; margin: 2em 0;">
+
+
+<h2 id="work">:page_facing_up: Representative Works</h2>
 
 
 <!-- publication cand -->
@@ -347,6 +403,20 @@ I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Y
   <ins>*2026.07*</ins> <span class="my-label award">Award</span>
   <div class="news-content">
     🏆 Recieved the <strong>Yushan Young Fellow Program (教育部玉山青年學者)</strong> 🎉 ! 
+  </div>
+
+  <div style="margin-top: 15px;">
+    <img
+      src="/images/news/yushan_2026.jpg"
+      alt="Yushan Young Fellow Program"
+      style="
+        width: 100%;
+        max-width: 250px;
+        height: auto;
+        border-radius: 6px;
+        display: block;
+      "
+    >
   </div>
 </div>
 

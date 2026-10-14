@@ -10,6 +10,11 @@ author_profile: true
 AAAI (2027), WSDM (2027), ACM KDD (2025 Cycle 1&2, 2026 Cycle 1&2), WWW (2026), ICML (2026), NeurIPS (2025), CIKM (2025), IEEE BigData (2026, 2027), PAKDD (2026), SDM, AAAI, IEEE ICDM, CSUR, TKDE, TKDD, ACM TIST, KAIS
  
 <h2>Invited Talks</h2>
+
+- Foundementals of Machine Learning
+<br><span style="color:#5499D1; font-weight:600;">National Sun Yat-sen University, Dept. of Nursing</span> (Oct. 2026)
+- Foundementals of Deep Learning
+<br><span style="color:#5499D1; font-weight:600;">National Sun Yat-sen University, Dept. of Nursing</span> (Oct. 2026) 
 - Reinforcement Learning for GraphRAG
 <br><span style="color:#5499D1; font-weight:600;">MediaTek</span> (Jul. 2026) 
 - Enhanced Knowledge Representation for Decision Intelligence in Smart Cities and Healthcare
