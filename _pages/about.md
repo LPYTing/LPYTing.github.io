@@ -71,7 +71,7 @@ I received the <a href="https://search.asu.edu/profile/255975" target="_blank">Y
 <hr style="border: 0.1px solid #000; margin: 2em 0;">
 
 
-<h2 id="work">:page_facing_up: Research Area</h2>
+<h2 id="work">🖊️ Research Area</h2>
 
 Our lab explores three interconnected research directions, unified by the goal of developing AI systems that can **reason effectively**, adapt to **dynamic environments**, and solve **real-world challenges**. 
 
