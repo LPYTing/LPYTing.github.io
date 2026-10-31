@@ -14,10 +14,8 @@ author_profile: true
 
 <h2>Recent Preprints</h2>
 
-- Leaps Beyond the Seen: Reinforced Reasoning Augmented Generation for Clinical Notes <a href="https://arxiv.org/abs/2506.05386" target="_blank">[ArXiv]</a><br />
-**Lo Pang-Yun Ting**\*, Chengshuai Zhao\*, Yu-Hua Zeng, Yuan Jee Lim, Kun-Ta Chuang, Huan Liu
-- CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <a href="https://arxiv.org/abs/2501.16365" target="_blank">[ArXiv]</a><br />
-**Lo Pang-Yun Ting**, Zhen Tan, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu
+- Self-Supervised Latent Action-Conditioned World Modeling for Time Series <a href="https://arxiv.org/pdf/2610.37963" target="_blank">[ArXiv]</a><br />
+Chia-Han Kuo\*, Chengshuai Zhao\*,  Huan Liu, **Lo Pang-Yun Ting**
 
 
 ---
@@ -25,6 +23,14 @@ author_profile: true
 <h2>Selected Papers</h2>
 
 <h3>2026</h3>
+
+- VARS: From Point-Wise Reconstruction to Variability Modeling for Vital Sign Super-Resolution<br />
+Wei-Chun Tsai, **Lo Pang-Yun Ting**, Kun-Ta Chuang<br />
+*The 14th IEEE International Conference on Big Data (IEEE BigData)*, 2026
+
+- When Less Sensing is Enough: Human Activity Recognition from Coarse Motion Signals with Large Language Models<br />
+Chai Hao Tzun, Ko-Wei Su, **Lo Pang-Yun Ting**, Kun-Ta Chuang<br />
+*The 14th IEEE International Conference on Big Data (IEEE BigData)*, 2026
 
 - REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading<br />
 YChengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, **Lo Pang-Yun Ting**, Ying-Chih Chen, Huan Liu <a href="https://arxiv.org/pdf/2605.27402" target="_blank">[ArXiv]</a><br/>

@@ -411,6 +411,23 @@ Our lab explores three interconnected research directions, unified by the goal o
 
 </div>
 
+<div class="news-card" markdown="1">
+  <ins>*2026.10*</ins> <span class="my-label preprint">**Preprint**</span>
+  <div class="news-content">
+    Our paper "<em>Self-Supervised Latent Action-Conditioned World Modeling for Time Series</em>" is now on <a href="https://arxiv.org/pdf/2610.37963" target="_blank">ArXiv!</a>
+  </div>
+
+  <div class="linkedin-embed">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7522121257656569856?collapsed=1"  frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+  </div>
+</div>
+
+<div class="news-card" markdown="1">
+  <ins>*2026.10*</ins> <span class="my-label accept">**Acceptance**</span> 
+  <div class="news-content">
+    🎉 Two papers are accepted to <strong>IEEE BigData 2026</strong>!
+  </div>
+</div>
 
 
 <div class="news-card" markdown="1">
